@@ -804,7 +804,7 @@
     "Lvl": 3,
     "Hiragana": "アナウンサー",
     "Kanji": "",
-    "Type": "",
+    "Type": "Noun",
     "Definition": ""
   },
   {
@@ -812,7 +812,7 @@
     "Lvl": 4,
     "Hiragana": "あに",
     "Kanji": "兄",
-    "Type": "",
+    "Type": "Noun",
     "Definition": ""
   },
   {
@@ -820,7 +820,7 @@
     "Lvl": 4,
     "Hiragana": "あね",
     "Kanji": "姉",
-    "Type": "",
+    "Type": "Noun",
     "Definition": ""
   },
   {
@@ -828,7 +828,7 @@
     "Lvl": 4,
     "Hiragana": "アパート",
     "Kanji": "",
-    "Type": "",
+    "Type": "Noun",
     "Definition": ""
   },
   {
@@ -836,7 +836,7 @@
     "Lvl": 2,
     "Hiragana": "あばれる",
     "Kanji": "暴れる",
-    "Type": "",
+    "Type": "Verb II",
     "Definition": ""
   },
   {
@@ -844,7 +844,7 @@
     "Lvl": 4,
     "Hiragana": "あびる",
     "Kanji": "浴びる",
-    "Type": "",
+    "Type": "Verb II",
     "Definition": ""
   },
   {
@@ -852,7 +852,7 @@
     "Lvl": 4,
     "Hiragana": "あぶない",
     "Kanji": "危ない",
-    "Type": "",
+    "Type": "I-Adjectives",
     "Definition": ""
   },
   {
@@ -860,7 +860,7 @@
     "Lvl": 2,
     "Hiragana": "あぶら",
     "Kanji": "油/脂",
-    "Type": "",
+    "Type": "Noun",
     "Definition": ""
   },
   {
@@ -868,7 +868,7 @@
     "Lvl": 3,
     "Hiragana": "アフリカ",
     "Kanji": "",
-    "Type": "",
+    "Type": "Noun",
     "Definition": ""
   },
   {
@@ -876,7 +876,7 @@
     "Lvl": 2,
     "Hiragana": "あぶる",
     "Kanji": "",
-    "Type": "",
+    "Type": "Verb I",
     "Definition": ""
   },
   {
@@ -884,7 +884,7 @@
     "Lvl": 2,
     "Hiragana": "あふれる",
     "Kanji": "溢れる",
-    "Type": "",
+    "Type": "Verb II",
     "Definition": ""
   },
   {
@@ -892,7 +892,7 @@
     "Lvl": 4,
     "Hiragana": "あまい",
     "Kanji": "甘い",
-    "Type": "",
+    "Type": "I-Adjectives",
     "Definition": ""
   },
   {
@@ -900,7 +900,7 @@
     "Lvl": 2,
     "Hiragana": "あまど",
     "Kanji": "雨戸",
-    "Type": "",
+    "Type": "Noun",
     "Definition": ""
   },
   {
@@ -908,7 +908,7 @@
     "Lvl": 2,
     "Hiragana": "あまやかす",
     "Kanji": "甘やかす",
-    "Type": "",
+    "Type": "Verb I",
     "Definition": ""
   },
   {
@@ -916,7 +916,7 @@
     "Lvl": 4,
     "Hiragana": "あまり",
     "Kanji": "",
-    "Type": "",
+    "Type": "Adverbs",
     "Definition": ""
   },
   {
@@ -924,7 +924,7 @@
     "Lvl": 2,
     "Hiragana": "あまり",
     "Kanji": "余り",
-    "Type": "",
+    "Type": "Noun",
     "Definition": ""
   },
   {
@@ -932,7 +932,7 @@
     "Lvl": 2,
     "Hiragana": "あまる",
     "Kanji": "余る",
-    "Type": "",
+    "Type": "Verb I",
     "Definition": ""
   },
   {
@@ -940,7 +940,7 @@
     "Lvl": 2,
     "Hiragana": "あみもの",
     "Kanji": "編み物",
-    "Type": "",
+    "Type": "Noun",
     "Definition": ""
   },
   {
@@ -948,7 +948,7 @@
     "Lvl": 2,
     "Hiragana": "あむ",
     "Kanji": "編む",
-    "Type": "",
+    "Type": "Verb I",
     "Definition": ""
   },
   {
@@ -956,7 +956,7 @@
     "Lvl": 4,
     "Hiragana": "あめ",
     "Kanji": "雨",
-    "Type": "",
+    "Type": "Noun",
     "Definition": ""
   },
   {
@@ -964,7 +964,7 @@
     "Lvl": 4,
     "Hiragana": "あめ",
     "Kanji": "飴",
-    "Type": "",
+    "Type": "Noun",
     "Definition": ""
   },
   {
@@ -972,7 +972,7 @@
     "Lvl": 3,
     "Hiragana": "アメリカ",
     "Kanji": "",
-    "Type": "",
+    "Type": "Noun",
     "Definition": ""
   },
   {
@@ -980,7 +980,7 @@
     "Lvl": 2,
     "Hiragana": "あやうい",
     "Kanji": "危うい",
-    "Type": "",
+    "Type": "I-Adjectives",
     "Definition": ""
   },
   {
@@ -988,7 +988,7 @@
     "Lvl": 2,
     "Hiragana": "あやしい",
     "Kanji": "怪しい",
-    "Type": "",
+    "Type": "I-Adjectives",
     "Definition": ""
   },
   {
@@ -996,7 +996,7 @@
     "Lvl": 2,
     "Hiragana": "あやまり",
     "Kanji": "誤り",
-    "Type": "",
+    "Type": "Noun",
     "Definition": ""
   },
   {
@@ -1004,7 +1004,7 @@
     "Lvl": 3,
     "Hiragana": "あやまる",
     "Kanji": "謝る",
-    "Type": "",
+    "Type": "Verb I",
     "Definition": ""
   },
   {
@@ -1012,7 +1012,7 @@
     "Lvl": 2,
     "Hiragana": "あら",
     "Kanji": "",
-    "Type": "",
+    "Type": "Interjection",
     "Definition": ""
   },
   {
@@ -1020,7 +1020,7 @@
     "Lvl": 2,
     "Hiragana": "あらい",
     "Kanji": "荒い/粗い",
-    "Type": "",
+    "Type": "I-Adjectives",
     "Definition": ""
   },
   {
@@ -1028,7 +1028,7 @@
     "Lvl": 4,
     "Hiragana": "あらう",
     "Kanji": "洗う",
-    "Type": "",
+    "Type": "Verb I",
     "Definition": ""
   },
   {
@@ -1036,7 +1036,7 @@
     "Lvl": 2,
     "Hiragana": "あらし",
     "Kanji": "嵐",
-    "Type": "",
+    "Type": "Noun",
     "Definition": ""
   },
   {
@@ -1044,7 +1044,7 @@
     "Lvl": 2,
     "Hiragana": "あらすじ",
     "Kanji": "",
-    "Type": "",
+    "Type": "Noun",
     "Definition": ""
   },
   {
@@ -1052,7 +1052,7 @@
     "Lvl": 2,
     "Hiragana": "あらそう",
     "Kanji": "争う",
-    "Type": "",
+    "Type": "Verb I",
     "Definition": ""
   },
   {
@@ -1060,7 +1060,7 @@
     "Lvl": 2,
     "Hiragana": "あらた",
     "Kanji": "新",
-    "Type": "",
+    "Type": "Na-Adjectives",
     "Definition": ""
   },
   {
@@ -1068,7 +1068,7 @@
     "Lvl": 2,
     "Hiragana": "あらためて",
     "Kanji": "改めて",
-    "Type": "",
+    "Type": "Adverbs",
     "Definition": ""
   },
   {
@@ -1076,7 +1076,7 @@
     "Lvl": 2,
     "Hiragana": "あらためる",
     "Kanji": "改める",
-    "Type": "",
+    "Type": "Verb II",
     "Definition": ""
   },
   {
@@ -1091,54 +1091,54 @@
     "SN": 137,
     "Lvl": 2,
     "Hiragana": "あらわす",
-    "Kanji": "表す現す",
+    "Kanji": "表/現/著す",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 138,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "あらわれ",
+    "Kanji": "現れ",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 139,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "あらわれる",
+    "Kanji": "現れる",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 140,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "ありがたい",
+    "Kanji": "有難い",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 141,
     "Lvl": 4,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "ある",
+    "Kanji": "ある/在る/有る",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 142,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "ある",
+    "Kanji": "或る",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 143,
     "Lvl": 2,
-    "Hiragana": "",
+    "Hiragana": "あるいは",
     "Kanji": "",
     "Type": "",
     "Definition": ""
@@ -1146,15 +1146,15 @@
   {
     "SN": 144,
     "Lvl": 4,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "あるく",
+    "Kanji": "歩く",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 145,
     "Lvl": 3,
-    "Hiragana": "",
+    "Hiragana": "アルコール",
     "Kanji": "",
     "Type": "",
     "Definition": ""
@@ -1162,7 +1162,7 @@
   {
     "SN": 146,
     "Lvl": 3,
-    "Hiragana": "",
+    "Hiragana": "アルバイト",
     "Kanji": "",
     "Type": "",
     "Definition": ""
@@ -1170,7 +1170,7 @@
   {
     "SN": 147,
     "Lvl": 2,
-    "Hiragana": "",
+    "Hiragana": "アルバム",
     "Kanji": "",
     "Type": "",
     "Definition": ""
@@ -1178,7 +1178,7 @@
   {
     "SN": 148,
     "Lvl": 2,
-    "Hiragana": "",
+    "Hiragana": "あれ",
     "Kanji": "",
     "Type": "",
     "Definition": ""
@@ -1186,7 +1186,7 @@
   {
     "SN": 149,
     "Lvl": 2,
-    "Hiragana": "",
+    "Hiragana": "あれこれ",
     "Kanji": "",
     "Type": "",
     "Definition": ""
@@ -1194,111 +1194,111 @@
   {
     "SN": 150,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "あれる",
+    "Kanji": "荒れる",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 151,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "あわ",
+    "Kanji": "泡",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 152,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "あわせる",
+    "Kanji": "合わせる",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 153,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "あわただし",
+    "Kanji": "慌ただし",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 154,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "あわてる",
+    "Kanji": "慌てる",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 155,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "あわれ",
+    "Kanji": "哀れ",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 156,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "あん",
+    "Kanji": "案",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 157,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "あんい",
+    "Kanji": "安易",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 158,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "あんがい",
+    "Kanji": "案外",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 159,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "あんき",
+    "Kanji": "暗記",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 160,
     "Lvl": 3,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "あんしん（する）",
+    "Kanji": "安心（する）",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 161,
     "Lvl": 3,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "あんぜん",
+    "Kanji": "安全",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 162,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "あんてい",
+    "Kanji": "安定",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 163,
     "Lvl": 2,
-    "Hiragana": "",
+    "Hiragana": "アンテナ",
     "Kanji": "",
     "Type": "",
     "Definition": ""
@@ -1306,7 +1306,7 @@
   {
     "SN": 164,
     "Lvl": 3,
-    "Hiragana": "",
+    "Hiragana": "あんな",
     "Kanji": "",
     "Type": "",
     "Definition": ""
@@ -1314,23 +1314,23 @@
   {
     "SN": 165,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "あんない",
+    "Kanji": "案内",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 166,
     "Lvl": 3,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "あんない（する）",
+    "Kanji": "案内（する）",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 167,
     "Lvl": 2,
-    "Hiragana": "",
+    "Hiragana": "あんなに",
     "Kanji": "",
     "Type": "",
     "Definition": ""
@@ -1338,7 +1338,7 @@
   {
     "SN": 168,
     "Lvl": 2,
-    "Hiragana": "",
+    "Hiragana": "あんまり",
     "Kanji": "",
     "Type": "",
     "Definition": ""
@@ -1346,23 +1346,23 @@
   {
     "SN": 169,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "～い",
+    "Kanji": "～位",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 170,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "い",
+    "Kanji": "胃",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 171,
     "Lvl": 4,
-    "Hiragana": "",
+    "Hiragana": "いい/よい",
     "Kanji": "",
     "Type": "",
     "Definition": ""
@@ -1370,127 +1370,127 @@
   {
     "SN": 172,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いいだす",
+    "Kanji": "言い出す",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 173,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いいつける",
+    "Kanji": "言いつける",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 174,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いいん",
+    "Kanji": "委員",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 175,
     "Lvl": 4,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いう",
+    "Kanji": "言う",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 176,
     "Lvl": 4,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いえ",
+    "Kanji": "家",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 177,
     "Lvl": 3,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いか",
+    "Kanji": "以下",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 178,
     "Lvl": 3,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いがい",
+    "Kanji": "以外",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 179,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いがい",
+    "Kanji": "意外",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 180,
     "Lvl": 4,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いかが",
+    "Kanji": "如何",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 181,
     "Lvl": 3,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いがく",
+    "Kanji": "医学",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 182,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いき",
+    "Kanji": "息",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 183,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いぎ",
+    "Kanji": "意義",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 184,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いき/ゆき",
+    "Kanji": "行き",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 185,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いきいき",
+    "Kanji": "生き生き",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 186,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いきおい",
+    "Kanji": "勢い",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 187,
     "Lvl": 2,
-    "Hiragana": "",
+    "Hiragana": "いきなり",
     "Kanji": "",
     "Type": "",
     "Definition": ""
@@ -1498,15 +1498,15 @@
   {
     "SN": 188,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いきもの",
+    "Kanji": "生き物",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 189,
     "Lvl": 3,
-    "Hiragana": "",
+    "Hiragana": "イギリス",
     "Kanji": "",
     "Type": "",
     "Definition": ""
@@ -1514,63 +1514,63 @@
   {
     "SN": 190,
     "Lvl": 3,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いきる",
+    "Kanji": "生きる",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 191,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いく～",
+    "Kanji": "幾～",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 192,
     "Lvl": 4,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いく/ゆく",
+    "Kanji": "行く",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 193,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いくじ",
+    "Kanji": "育児",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 194,
     "Lvl": 4,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いくつ",
+    "Kanji": "幾つ",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 195,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いくぶん",
+    "Kanji": "幾分",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 196,
     "Lvl": 4,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いくら",
+    "Kanji": "幾ら",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 197,
     "Lvl": 3,
-    "Hiragana": "",
+    "Hiragana": "いくら～ても",
     "Kanji": "",
     "Type": "",
     "Definition": ""
@@ -1578,24 +1578,24 @@
   {
     "SN": 198,
     "Lvl": 4,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いけ",
+    "Kanji": "池",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 199,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いけばな",
+    "Kanji": "生け花",
     "Type": "",
     "Definition": ""
   },
   {
     "SN": 200,
     "Lvl": 3,
-    "Hiragana": "",
-    "Kanji": "",
+    "Hiragana": "いけん",
+    "Kanji": "意見",
     "Type": "",
     "Definition": ""
   },

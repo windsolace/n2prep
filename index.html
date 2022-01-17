@@ -46,45 +46,34 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Home</a>
+              <!-- <a class="nav-link active" aria-current="page" href="#">Home</a> -->
+              <p>Options</p>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Link</a>
-            </li>
-            <li class="nav-item dropdown">
-              <a
-                class="nav-link dropdown-toggle"
-                href="#"
-                id="navbarDropdown"
-                role="button"
-                data-bs-toggle="dropdown"
-                aria-expanded="false"
+              <select
+                class="form-select"
+                id="practiceMode"
+                aria-label="Select Practice Mode"
               >
-                Dropdown 1
-              </a>
-              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <li><a class="dropdown-item" href="#">Action</a></li>
-                <li><a class="dropdown-item" href="#">Another action 1</a></li>
-                <li><hr class="dropdown-divider" /></li>
-                <li>
-                  <a class="dropdown-item" href="#">Something else here</a>
-                </li>
-              </ul>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link disabled">Disabled</a>
+                <option selected>Select Practice Mode</option>
+                <option value="kanji">Kanji</option>
+                <option value="hiragana">Hiragana</option>
+                <option value="eng">Definitions</option>
+              </select>
             </li>
           </ul>
+
           <form class="d-flex">
-            <input
+            <!-- <input
               class="form-control me-2"
               type="search"
               placeholder="Search"
               aria-label="Search"
-            />
-            <button class="btn btn-outline-success" type="submit">
+            /> -->
+
+            <!-- <button class="btn btn-outline-success" type="submit">
               Search
-            </button>
+            </button> -->
           </form>
         </div>
       </div>
@@ -94,12 +83,32 @@
       <div class="row">
         <div class="col">
           <!-- Results -->
-          <script type="text/template" id="resultsTemplate">
+          <script type="text/template" id="resultsTemplate-hiragana">
             <div class="card flashcard">
               <div class="card-body">
                 <h2 class="card-title text-center">{{ Hiragana }} </h2>
                 <p class="card-text text-center">{{ Kanji }}</p>
                 <p class="card-text text-center flashcard__definition hidden">{{Definition}}</p>
+                <!-- <a href="#" class="btn btn-primary">Show</a> -->
+              </div>
+            </div>
+          </script>
+          <script type="text/template" id="resultsTemplate-kanji">
+            <div class="card flashcard">
+              <div class="card-body">
+                <h2 class="card-title text-center">{{ Kanji }} </h2>
+                <p class="card-text text-center hidden">{{ Hiragana }}</p>
+                <p class="card-text text-center flashcard__definition hidden">{{Definition}}</p>
+                <!-- <a href="#" class="btn btn-primary">Show</a> -->
+              </div>
+            </div>
+          </script>
+          <script type="text/template" id="resultsTemplate-eng">
+            <div class="card flashcard">
+              <div class="card-body">
+                <h2 class="card-title text-center">{{ Definition }} </h2>
+                <p class="card-text text-center hidden">{{ Kanji }}</p>
+                <p class="card-text text-center flashcard__definition hidden">{{Hiragana}}</p>
                 <!-- <a href="#" class="btn btn-primary">Show</a> -->
               </div>
             </div>
