@@ -60,6 +60,43 @@
                 <option value="eng">Definitions</option>
               </select>
             </li>
+            <li>
+              <label for="minRange" class="">Min</label>
+              <!-- <output>1</output> -->
+              <input
+                type="number"
+                class="form-control"
+                id="manualMin"
+                placeholder="1"
+                value="1"
+              />
+              <input
+                type="range"
+                class="form-range"
+                min="1"
+                max="200"
+                id="minRange"
+                value="0"
+              />
+            </li>
+            <li>
+              <label for="maxRange" class="form-label">Max</label>
+              <input
+                type="number"
+                class="form-control"
+                id="manualMax"
+                placeholder="5000"
+                value="5000"
+              />
+              <input
+                type="range"
+                class="form-range"
+                min="1"
+                max="5000"
+                value="5000"
+                id="maxRange"
+              />
+            </li>
           </ul>
 
           <form class="d-flex">
@@ -85,7 +122,7 @@
           class="form-control me-2"
           type="search"
           id="searchFilter"
-          placeholder="Search"
+          placeholder="Type in English or Japanese to start filtering"
           aria-label="Search"
         />
       </div>
@@ -95,6 +132,7 @@
           <script type="text/template" id="resultsTemplate-hiragana">
             <div class="card flashcard">
               <div class="card-body">
+                <p class="text-end index">{{ SN }}</p>
                 <h2 class="card-title text-center">{{ Hiragana }} </h2>
                 <p class="card-text text-center">{{Definition}}</p>
                 <p class="card-text text-center flashcard__target hidden">{{ Kanji }}</p>
@@ -105,6 +143,7 @@
           <script type="text/template" id="resultsTemplate-kanji">
             <div class="card flashcard">
               <div class="card-body">
+                <p class="text-end index">{{ SN }}</p>
                 <h2 class="card-title text-center">{{ Kanji }} </h2>
                 <p class="card-text text-center flashcard__target hidden">{{ Hiragana }}</p>
                 <p class="card-text text-center flashcard__target hidden">{{Definition}}</p>
@@ -115,6 +154,7 @@
           <script type="text/template" id="resultsTemplate-eng">
             <div class="card flashcard">
               <div class="card-body">
+                <p class="text-end index">{{ SN }}</p>
                 <h2 class="card-title text-center">{{ Definition }} </h2>
                 <p class="card-text text-center flashcard__target hidden">{{ Kanji }}</p>
                 <p class="card-text text-center flashcard__target hidden">{{Hiragana}}</p>

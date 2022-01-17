@@ -19,8 +19,11 @@ const n2Prep = (function () {
   const practiceEng = resultsTemplateStr + "-eng";
   const practiceDefault = "eng";
   let currentMode = N2PrepUtils.getCookie("mode");
+  let currentData = vocab;
 
   const resultsDiv = "#results";
+  const NAME_MINRANGE = "min";
+  const NAME_MAXRANGE = "max";
 
   /**
    * Fetches data from json file
@@ -29,6 +32,10 @@ const n2Prep = (function () {
    */
   const getData = (useMock, template) => {
     if (useMock) {
+      // update range bars
+      updateRangeBars(NAME_MINRANGE, 1, vocab.length);
+      updateRangeBars(NAME_MAXRANGE, 1, vocab.length);
+      //generate html
       generateCards(vocab, template);
     }
   };
@@ -65,23 +72,43 @@ const n2Prep = (function () {
     });
   };
 
+  /**
+   *
+   * @param {string} rangeType - 'min' or 'max'
+   * @param {number} min
+   * @param {number} max
+   */
+  const updateRangeBars = (rangeType, min, max) => {
+    const minSelector = "#minRange";
+    const maxSelector = "#maxRange";
+    let selector = "";
+
+    if (!rangeType) return;
+    else if (rangeType === NAME_MINRANGE) selector = minSelector;
+    else if (rangeType === NAME_MAXRANGE) selector = maxSelector;
+
+    if (min && min > 0) $(selector).attr(NAME_MINRANGE, min);
+    if (max && max > 0) $(selector).attr(NAME_MAXRANGE, max);
+  };
+
   const init = () => {
     //check if has mode cookie and use that mode
     // let currentMode = N2PrepUtils.getCookie("mode");
     if (!currentMode) currentMode = practiceDefault;
     getData(useMockVocab, resultsTemplateStr + "-" + currentMode);
 
-    //init practiceMode ddl event
+    //init practiceMode ddl event, resets data to full data set
     $("#practiceMode").change((e) => {
       let mode = e.currentTarget.value;
       N2PrepUtils.createCookie("mode", mode, 7);
       $(resultsDiv).empty();
       generateCards(vocab, resultsTemplateStr + "-" + mode);
       currentMode = mode;
+      $("#searchFilter").val("");
       console.info("Practice Mode changed to " + mode);
     });
 
-    //search bar filter
+    //search bar filter, filters current visible data
     $("#searchFilter").on("input", (e) => {
       let searchTerm = e.currentTarget.value;
       const engTest = /^[A-Za-z]*$/;
@@ -107,6 +134,42 @@ const n2Prep = (function () {
       console.debug(
         "Filtering by word: " + searchTerm + " | currentMode: " + currentMode
       );
+    });
+
+    //range bar events
+    $("#manualMin").change((e) => {
+      $("#minRange").val(e.currentTarget.value);
+      $("#minRange").trigger("change");
+    });
+    $("#minRange").change((e) => {
+      const $maxRange = $("#maxRange");
+      e.currentTarget.previousElementSibling.value = e.currentTarget.value;
+      //min value changed, set maxRange's min value
+      $maxRange.attr(NAME_MINRANGE, e.currentTarget.value);
+
+      //reset and generate data
+      let filteredArr = vocab.filter((item) => {
+        return item.SN >= e.currentTarget.value && item.SN <= $maxRange.val();
+      });
+      $(resultsDiv).empty();
+      generateCards(filteredArr, resultsTemplateStr + "-" + currentMode);
+    });
+    $("#manualMax").change((e) => {
+      $("#maxRange").val(e.currentTarget.value);
+      $("#maxRange").trigger("change");
+    });
+    $("#maxRange").change((e) => {
+      const $minRange = $("#minRange");
+      e.currentTarget.previousElementSibling.value = e.currentTarget.value;
+      //max value changed, set minRange's max value
+      $minRange.attr(NAME_MAXRANGE, e.currentTarget.value);
+
+      //reset and generate data
+      let filteredArr = vocab.filter((item) => {
+        return item.SN >= $minRange.val() && item.SN <= e.currentTarget.value;
+      });
+      $(resultsDiv).empty();
+      generateCards(filteredArr, resultsTemplateStr + "-" + currentMode);
     });
   };
 
