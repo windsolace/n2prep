@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "Hiragana": "ああ",
+      "Kanji": "",
+      "Definition": "like that ああやって",
+      "Lvl": 3
+    },
+    {
+      "Hiragana": "あい",
+      "Kanji": "愛",
+      "Definition": "love, affection",
+      "Lvl": 2
+    },
+    {
+      "Hiragana": "あいかわらず",
+      "Kanji": "相変わらず",
+      "Definition": "as before, as ever, as usual, as always, remain",
+      "Lvl": 2
+    },
+    {
+      "Hiragana": "あいさつ（する）",
+      "Kanji": "挨拶（する）",
+      "Definition": "greet, salute",
+      "Lvl": 2
+    }
+  ]
+}
