@@ -26,10 +26,9 @@ const n2Prep = (function () {
     let resultsDiv = document.getElementById("results");
 
     let cardTemplateFn = _.template(resultsTemplate);
-    let resultList = data.data;
+    let resultList = data;
 
     _.forEach(resultList, function (result) {
-      console.log(result);
       let templateHTML = cardTemplateFn(result);
       resultsDiv.innerHTML += templateHTML;
     });

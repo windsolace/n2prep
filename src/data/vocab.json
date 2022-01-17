@@ -1,28 +1,2402 @@
-{
-  "data": [
-    {
-      "Hiragana": "ああ",
-      "Kanji": "",
-      "Definition": "like that ああやって",
-      "Lvl": 3
-    },
-    {
-      "Hiragana": "あい",
-      "Kanji": "愛",
-      "Definition": "love, affection",
-      "Lvl": 2
-    },
-    {
-      "Hiragana": "あいかわらず",
-      "Kanji": "相変わらず",
-      "Definition": "as before, as ever, as usual, as always, remain",
-      "Lvl": 2
-    },
-    {
-      "Hiragana": "あいさつ（する）",
-      "Kanji": "挨拶（する）",
-      "Definition": "greet, salute",
-      "Lvl": 2
-    }
-  ]
-}
+[
+  {
+    "SN": 1,
+    "Lvl": 3,
+    "Hiragana": "ああ",
+    "Kanji": "",
+    "Type": "Instruction",
+    "Definition": "like that"
+  },
+  {
+    "SN": 2,
+    "Lvl": 2,
+    "Hiragana": "あい",
+    "Kanji": "愛",
+    "Type": "Noun",
+    "Definition": "love"
+  },
+  {
+    "SN": 3,
+    "Lvl": 2,
+    "Hiragana": "あいかわらず",
+    "Kanji": "相変わらず",
+    "Type": "Noun, Adverbs",
+    "Definition": "as before, as ever, as usual, as always, remain"
+  },
+  {
+    "SN": 4,
+    "Lvl": 3,
+    "Hiragana": "あいさつ（する）",
+    "Kanji": "挨拶（する）",
+    "Type": "Noun III",
+    "Definition": "greet, salute"
+  },
+  {
+    "SN": 5,
+    "Lvl": 2,
+    "Hiragana": "あいじょう",
+    "Kanji": "愛情",
+    "Type": "Noun",
+    "Definition": "love, affection"
+  },
+  {
+    "SN": 6,
+    "Lvl": 2,
+    "Hiragana": "あいず",
+    "Kanji": "合図",
+    "Type": "Noun III",
+    "Definition": "a signal, a sign, a cue/ signal, give a signal, make a sign, motion"
+  },
+  {
+    "SN": 7,
+    "Lvl": 4,
+    "Hiragana": "アイスクリーム",
+    "Kanji": "",
+    "Type": "Noun",
+    "Definition": "ice-cream"
+  },
+  {
+    "SN": 8,
+    "Lvl": 2,
+    "Hiragana": "あいする",
+    "Kanji": "愛する",
+    "Type": "Verb III",
+    "Definition": "love, have an affection, be attached to"
+  },
+  {
+    "SN": 9,
+    "Lvl": 3,
+    "Hiragana": "あいだ",
+    "Kanji": "間",
+    "Type": "Noun",
+    "Definition": "between (A & B)"
+  },
+  {
+    "SN": 10,
+    "Lvl": 2,
+    "Hiragana": "あいて",
+    "Kanji": "相手",
+    "Type": "Noun",
+    "Definition": "a companion, one's partner, an opponent, an adversary, a rival, the other party"
+  },
+  {
+    "SN": 11,
+    "Lvl": 2,
+    "Hiragana": "アイデア／あいでぃあ",
+    "Kanji": "",
+    "Type": "Noun",
+    "Definition": "idea"
+  },
+  {
+    "SN": 12,
+    "Lvl": 2,
+    "Hiragana": "あいにく",
+    "Kanji": "",
+    "Type": "Noun, Adverbs",
+    "Definition": "unfortunately, unluckily / ~の天気 bad weather"
+  },
+  {
+    "SN": 13,
+    "Lvl": 2,
+    "Hiragana": "あいまい",
+    "Kanji": "曖昧",
+    "Type": "Na-Adjectives",
+    "Definition": "unclear, vague, noncommittal, ambigous,equivocal"
+  },
+  {
+    "SN": 14,
+    "Lvl": 2,
+    "Hiragana": "アイロン",
+    "Kanji": "",
+    "Type": "Noun",
+    "Definition": "an iron, ~をかける: iron, press /シャツに～をかける: iron/press a shirt"
+  },
+  {
+    "SN": 15,
+    "Lvl": 4,
+    "Hiragana": "あう",
+    "Kanji": "会う",
+    "Type": "Verb I",
+    "Definition": "see, meet"
+  },
+  {
+    "SN": 16,
+    "Lvl": 3,
+    "Hiragana": "あう",
+    "Kanji": "合う",
+    "Type": "Verb I",
+    "Definition": "fit, match"
+  },
+  {
+    "SN": 17,
+    "Lvl": 2,
+    "Hiragana": "あう",
+    "Kanji": "遭う",
+    "Type": "Verb I",
+    "Definition": "meet, encounter, encounter difficulties"
+  },
+  {
+    "SN": 18,
+    "Lvl": 2,
+    "Hiragana": "アウト",
+    "Kanji": "",
+    "Type": "Noun",
+    "Definition": "out"
+  },
+  {
+    "SN": 19,
+    "Lvl": 4,
+    "Hiragana": "あお",
+    "Kanji": "青",
+    "Type": "Noun",
+    "Definition": "blue"
+  },
+  {
+    "SN": 20,
+    "Lvl": 4,
+    "Hiragana": "あおい",
+    "Kanji": "青い",
+    "Type": "I-Adjectives",
+    "Definition": "blue"
+  },
+  {
+    "SN": 21,
+    "Lvl": 2,
+    "Hiragana": "あおぐ",
+    "Kanji": "扇ぐ",
+    "Type": "Verb I",
+    "Definition": "fan / 新聞紙で～: fan oneself with a newspaper"
+  },
+  {
+    "SN": 22,
+    "Lvl": 2,
+    "Hiragana": "あおじろい",
+    "Kanji": "青白い",
+    "Type": "I-Adjectives",
+    "Definition": "pale, pallid / ～顔をしている：look pale"
+  },
+  {
+    "SN": 23,
+    "Lvl": 4,
+    "Hiragana": "あか",
+    "Kanji": "赤",
+    "Type": "Noun",
+    "Definition": "red"
+  },
+  {
+    "SN": 24,
+    "Lvl": 4,
+    "Hiragana": "あかい",
+    "Kanji": "赤い",
+    "Type": "I-Adjectives",
+    "Definition": "red"
+  },
+  {
+    "SN": 25,
+    "Lvl": 3,
+    "Hiragana": "あかちゃん",
+    "Kanji": "赤ちゃん",
+    "Type": "Noun",
+    "Definition": "baby"
+  },
+  {
+    "SN": 26,
+    "Lvl": 2,
+    "Hiragana": "あかり",
+    "Kanji": "明かり",
+    "Type": "Noun",
+    "Definition": "a light, an electric light, a lamp"
+  },
+  {
+    "SN": 27,
+    "Lvl": 3,
+    "Hiragana": "あがる",
+    "Kanji": "上がる",
+    "Type": "Verb I",
+    "Definition": "climb/rise"
+  },
+  {
+    "SN": 28,
+    "Lvl": 2,
+    "Hiragana": "あがる",
+    "Kanji": "上がる",
+    "Type": "Verb I",
+    "Definition": "rise, go/come up, climb up, make progress, improve, finish, get nervous"
+  },
+  {
+    "SN": 29,
+    "Lvl": 4,
+    "Hiragana": "あかるい",
+    "Kanji": "明るい",
+    "Type": "I-Adjectives",
+    "Definition": "bright"
+  },
+  {
+    "SN": 30,
+    "Lvl": 3,
+    "Hiragana": "あかんぼう",
+    "Kanji": "赤ん坊",
+    "Type": "Noun",
+    "Definition": "baby"
+  },
+  {
+    "SN": 31,
+    "Lvl": 4,
+    "Hiragana": "あき",
+    "Kanji": "秋",
+    "Type": "Noun",
+    "Definition": "autumn, fall"
+  },
+  {
+    "SN": 32,
+    "Lvl": 2,
+    "Hiragana": "あき",
+    "Kanji": "明/空き",
+    "Type": "Noun",
+    "Definition": "open / room, space"
+  },
+  {
+    "SN": 33,
+    "Lvl": 2,
+    "Hiragana": "あきらか",
+    "Kanji": "明から",
+    "Type": "Na-Adjectives",
+    "Definition": "clear, obvious,evident, plain"
+  },
+  {
+    "SN": 34,
+    "Lvl": 2,
+    "Hiragana": "あきらめる",
+    "Kanji": "諦める",
+    "Type": "Verb II",
+    "Definition": "resign, abandon, give up"
+  },
+  {
+    "SN": 35,
+    "Lvl": 2,
+    "Hiragana": "あきる",
+    "Kanji": "飽きる",
+    "Type": "Verb II",
+    "Definition": "become tired of, lose interest in"
+  },
+  {
+    "SN": 36,
+    "Lvl": 2,
+    "Hiragana": "あきれる",
+    "Kanji": "呆れる",
+    "Type": "Verb II",
+    "Definition": "be amazed, dumbfounded, flabbergasted, be shocked/astounded, be disgusted"
+  },
+  {
+    "SN": 37,
+    "Lvl": 4,
+    "Hiragana": "あく",
+    "Kanji": "開く",
+    "Type": "Verb I",
+    "Definition": "open"
+  },
+  {
+    "SN": 38,
+    "Lvl": 3,
+    "Hiragana": "あく",
+    "Kanji": "空く",
+    "Type": "Verb I",
+    "Definition": "empty, vacant"
+  },
+  {
+    "SN": 39,
+    "Lvl": 2,
+    "Hiragana": "あくしゅ",
+    "Kanji": "握手",
+    "Type": "Noun III",
+    "Definition": "a handshake, handshaking, ~する: shake hands, join hands/forces, make up"
+  },
+  {
+    "SN": 40,
+    "Lvl": 3,
+    "Hiragana": "アクセサリー",
+    "Kanji": "",
+    "Type": "Noun",
+    "Definition": "accessories"
+  },
+  {
+    "SN": 41,
+    "Lvl": 2,
+    "Hiragana": "アクセント",
+    "Kanji": "",
+    "Type": "Noun",
+    "Definition": "accent"
+  },
+  {
+    "SN": 42,
+    "Lvl": 2,
+    "Hiragana": "あくび",
+    "Kanji": "",
+    "Type": "Noun III",
+    "Definition": "a yawn, ～する: yawn, give a yawn"
+  },
+  {
+    "SN": 43,
+    "Lvl": 2,
+    "Hiragana": "あくま",
+    "Kanji": "悪魔",
+    "Type": "Noun",
+    "Definition": "the devil, Satan, a fiend, an evil spirit / ～のような: devilish, satanic, fiendish"
+  },
+  {
+    "SN": 44,
+    "Lvl": 2,
+    "Hiragana": "あくまで（も）",
+    "Kanji": "飽くまで",
+    "Type": "Adverbs",
+    "Definition": "to the end/last, persistently"
+  },
+  {
+    "SN": 45,
+    "Lvl": 2,
+    "Hiragana": "あくる～",
+    "Kanji": "明くる",
+    "Type": "Prefix",
+    "Definition": "the next or following day/year, ~日: next day"
+  },
+  {
+    "SN": 46,
+    "Lvl": 2,
+    "Hiragana": "あけがた",
+    "Kanji": "明け方",
+    "Type": "Noun",
+    "Definition": "dawn, daybreak"
+  },
+  {
+    "SN": 47,
+    "Lvl": 4,
+    "Hiragana": "あける",
+    "Kanji": "開ける",
+    "Type": "Verb II",
+    "Definition": "open"
+  },
+  {
+    "SN": 48,
+    "Lvl": 2,
+    "Hiragana": "あける",
+    "Kanji": "明ける",
+    "Type": "Verb II",
+    "Definition": "dawn, rise, end, come to an end, be over"
+  },
+  {
+    "SN": 49,
+    "Lvl": 4,
+    "Hiragana": "あげる",
+    "Kanji": "上げる",
+    "Type": "Verb II",
+    "Definition": "raise, lift up"
+  },
+  {
+    "SN": 50,
+    "Lvl": 3,
+    "Hiragana": "あげる",
+    "Kanji": "あげる",
+    "Type": "Verb II",
+    "Definition": "give"
+  },
+  {
+    "SN": 51,
+    "Lvl": 2,
+    "Hiragana": "あげる",
+    "Kanji": "揚げる",
+    "Type": "Verb II",
+    "Definition": "hoist, fly / 旗を～: fly/hoist a flag / deep fry"
+  },
+  {
+    "SN": 52,
+    "Lvl": 2,
+    "Hiragana": "あこがれる",
+    "Kanji": "憧れる",
+    "Type": "Verb II",
+    "Definition": "long for, have a crush on, be attracted by"
+  },
+  {
+    "SN": 53,
+    "Lvl": 4,
+    "Hiragana": "あさ",
+    "Kanji": "朝",
+    "Type": "Noun",
+    "Definition": "morning"
+  },
+  {
+    "SN": 54,
+    "Lvl": 3,
+    "Hiragana": "あさい",
+    "Kanji": "浅い",
+    "Type": "I-Adjectives",
+    "Definition": "shallow"
+  },
+  {
+    "SN": 55,
+    "Lvl": 4,
+    "Hiragana": "あさごはん",
+    "Kanji": "朝御飯",
+    "Type": "Noun",
+    "Definition": "breakfast"
+  },
+  {
+    "SN": 56,
+    "Lvl": 4,
+    "Hiragana": "あさって",
+    "Kanji": "",
+    "Type": "Noun",
+    "Definition": "the day after tomorrow"
+  },
+  {
+    "SN": 57,
+    "Lvl": 4,
+    "Hiragana": "あし",
+    "Kanji": "足",
+    "Type": "Noun",
+    "Definition": "legs, foot or feet"
+  },
+  {
+    "SN": 58,
+    "Lvl": 3,
+    "Hiragana": "あじ",
+    "Kanji": "味",
+    "Type": "Noun",
+    "Definition": "taste"
+  },
+  {
+    "SN": 59,
+    "Lvl": 3,
+    "Hiragana": "アジア",
+    "Kanji": "",
+    "Type": "Noun",
+    "Definition": "Asia"
+  },
+  {
+    "SN": 60,
+    "Lvl": 2,
+    "Hiragana": "あしあと",
+    "Kanji": "足跡",
+    "Type": "Noun",
+    "Definition": "a footprint, footmark, tracks, achievement"
+  },
+  {
+    "SN": 61,
+    "Lvl": 4,
+    "Hiragana": "あした",
+    "Kanji": "明日",
+    "Type": "Noun",
+    "Definition": "tomorrow"
+  },
+  {
+    "SN": 62,
+    "Lvl": 2,
+    "Hiragana": "あしもと",
+    "Kanji": "足元",
+    "Type": "Noun",
+    "Definition": "underfoot, foothold, gait, close to / ～に気を付けてなさい: Watch your step"
+  },
+  {
+    "SN": 63,
+    "Lvl": 2,
+    "Hiragana": "あじわう",
+    "Kanji": "味わう",
+    "Type": "Verb I",
+    "Definition": "taste, enjoy, appreciate / 人生を～って楽しむ: Savour the pleasure of life, experience."
+  },
+  {
+    "SN": 64,
+    "Lvl": 3,
+    "Hiragana": "あす",
+    "Kanji": "明日",
+    "Type": "Noun",
+    "Definition": "tomorrow"
+  },
+  {
+    "SN": 65,
+    "Lvl": 2,
+    "Hiragana": "あずかる",
+    "Kanji": "預かる",
+    "Type": "Verb I",
+    "Definition": "keep, look after, take care of, manage, withhold"
+  },
+  {
+    "SN": 66,
+    "Lvl": 2,
+    "Hiragana": "あずける",
+    "Kanji": "預ける",
+    "Type": "Verb II",
+    "Definition": "put/place/leave a thing in a person's keeping/care, entrust, deposit"
+  },
+  {
+    "SN": 67,
+    "Lvl": 2,
+    "Hiragana": "あせ",
+    "Kanji": "汗",
+    "Type": "Noun",
+    "Definition": "sweat, perspiration"
+  },
+  {
+    "SN": 68,
+    "Lvl": 4,
+    "Hiragana": "あそこ",
+    "Kanji": "",
+    "Type": "Instruction",
+    "Definition": "there, that place"
+  },
+  {
+    "SN": 69,
+    "Lvl": 3,
+    "Hiragana": "あそび",
+    "Kanji": "遊び",
+    "Type": "Noun",
+    "Definition": "play"
+  },
+  {
+    "SN": 70,
+    "Lvl": 4,
+    "Hiragana": "あそぶ",
+    "Kanji": "遊ぶ",
+    "Type": "Verb I",
+    "Definition": "play"
+  },
+  {
+    "SN": 71,
+    "Lvl": 2,
+    "Hiragana": "あたえる",
+    "Kanji": "与える",
+    "Type": "Verb II",
+    "Definition": "give, cause"
+  },
+  {
+    "SN": 72,
+    "Lvl": 4,
+    "Hiragana": "あたたかい",
+    "Kanji": "暖かい",
+    "Type": "I-Adjectives",
+    "Definition": "warm"
+  },
+  {
+    "SN": 73,
+    "Lvl": 2,
+    "Hiragana": "あたたかい/な",
+    "Kanji": "暖/温かい/な",
+    "Type": "I-form, Na-form",
+    "Definition": "warm climate/room/colour, hot food/bath"
+  },
+  {
+    "SN": 74,
+    "Lvl": 2,
+    "Hiragana": "あたたまる",
+    "Kanji": "暖まる/温まる",
+    "Type": "Verb I",
+    "Definition": "become/get/grow warmer, warm up, be warmed/touched"
+  },
+  {
+    "SN": 75,
+    "Lvl": 2,
+    "Hiragana": "あたためる",
+    "Kanji": "暖める/温める",
+    "Type": "Verb II",
+    "Definition": "warm up, heat up"
+  },
+  {
+    "SN": 76,
+    "Lvl": 4,
+    "Hiragana": "あたま",
+    "Kanji": "頭",
+    "Type": "Noun",
+    "Definition": "head"
+  },
+  {
+    "SN": 77,
+    "Lvl": 4,
+    "Hiragana": "あたらしい",
+    "Kanji": "新しい",
+    "Type": "I-Adjectives",
+    "Definition": "new"
+  },
+  {
+    "SN": 78,
+    "Lvl": 2,
+    "Hiragana": "あたり",
+    "Kanji": "辺り",
+    "Type": "Noun",
+    "Definition": "around, in the neighbourhood, vicinity"
+  },
+  {
+    "SN": 79,
+    "Lvl": 2,
+    "Hiragana": "あたりまえ",
+    "Kanji": "当たり前",
+    "Type": "Noun, Na-form",
+    "Definition": "natural, proper, ordinary, usual, normal"
+  },
+  {
+    "SN": 80,
+    "Lvl": 2,
+    "Hiragana": "あたる",
+    "Kanji": "当たる",
+    "Type": "Verb I",
+    "Definition": "hit, strike, touch, bask (in the sun), win, be in charge, be called on, be poisioned"
+  },
+  {
+    "SN": 81,
+    "Lvl": 2,
+    "Hiragana": "あちこち",
+    "Kanji": "",
+    "Type": "Others",
+    "Definition": "here and there, all over, in many or vaiour places, from one thing to another"
+  },
+  {
+    "SN": 82,
+    "Lvl": 4,
+    "Hiragana": "あちら/あっち",
+    "Kanji": "",
+    "Type": "Instructions",
+    "Definition": "this direction/polit form of あそこ"
+  },
+  {
+    "SN": 83,
+    "Lvl": 2,
+    "Hiragana": "あちらこちら",
+    "Kanji": "",
+    "Type": "Noun",
+    "Definition": "here and there"
+  },
+  {
+    "SN": 84,
+    "Lvl": 4,
+    "Hiragana": "あつい",
+    "Kanji": "暑い",
+    "Type": "I-Adjectives",
+    "Definition": "hot"
+  },
+  {
+    "SN": 85,
+    "Lvl": 4,
+    "Hiragana": "あつい",
+    "Kanji": "厚い",
+    "Type": "I-Adjectives",
+    "Definition": "thick"
+  },
+  {
+    "SN": 86,
+    "Lvl": 4,
+    "Hiragana": "あつい",
+    "Kanji": "熱い",
+    "Type": "I-Adjectives",
+    "Definition": "hot"
+  },
+  {
+    "SN": 87,
+    "Lvl": 2,
+    "Hiragana": "あつかう",
+    "Kanji": "扱う",
+    "Type": "Verb I",
+    "Definition": "treat, handle"
+  },
+  {
+    "SN": 88,
+    "Lvl": 2,
+    "Hiragana": "あつかましい",
+    "Kanji": "厚かましい",
+    "Type": "I-Adjectives",
+    "Definition": "brazen-faced, impudent, cheeky"
+  },
+  {
+    "SN": 89,
+    "Lvl": 2,
+    "Hiragana": "あっしゅく",
+    "Kanji": "圧縮",
+    "Type": "Noun III",
+    "Definition": "compression / ～する: compress, condense"
+  },
+  {
+    "SN": 90,
+    "Lvl": 2,
+    "Hiragana": "あつまり",
+    "Kanji": "集まり",
+    "Type": "Noun",
+    "Definition": "meeting, group, set / attendance, collection / ～が悪かった: attendance was bad"
+  },
+  {
+    "SN": 91,
+    "Lvl": 3,
+    "Hiragana": "あつまる",
+    "Kanji": "集まる",
+    "Type": "Verb I",
+    "Definition": "come together / collected, gather"
+  },
+  {
+    "SN": 92,
+    "Lvl": 3,
+    "Hiragana": "あつめる",
+    "Kanji": "集める",
+    "Type": "Verb II",
+    "Definition": "collect, gather"
+  },
+  {
+    "SN": 93,
+    "Lvl": 2,
+    "Hiragana": "あてな",
+    "Kanji": "宛名",
+    "Type": "Noun",
+    "Definition": "an addressee, an address"
+  },
+  {
+    "SN": 94,
+    "Lvl": 2,
+    "Hiragana": "あてはまる",
+    "Kanji": "",
+    "Type": "Verb I",
+    "Definition": "apply to, come/fall under, fit meet fulfill"
+  },
+  {
+    "SN": 95,
+    "Lvl": 2,
+    "Hiragana": "あてはめる",
+    "Kanji": "",
+    "Type": "Verb II",
+    "Definition": "apply (a rule to a case), adapt to"
+  },
+  {
+    "SN": 96,
+    "Lvl": 2,
+    "Hiragana": "あてる",
+    "Kanji": "当てる",
+    "Type": "Verb II",
+    "Definition": "hit, get, apply"
+  },
+  {
+    "SN": 97,
+    "Lvl": 4,
+    "Hiragana": "あと",
+    "Kanji": "後",
+    "Type": "Noun",
+    "Definition": "after, later"
+  },
+  {
+    "SN": 98,
+    "Lvl": 2,
+    "Hiragana": "あと",
+    "Kanji": "後",
+    "Type": "Adverbs, Noun",
+    "Definition": "～２人が欲しい。We need 2 more people. later, after"
+  },
+  {
+    "SN": 99,
+    "Lvl": 2,
+    "Hiragana": "あと",
+    "Kanji": "跡",
+    "Type": "Noun",
+    "Definition": "trace, track, trail"
+  },
+  {
+    "SN": 100,
+    "Lvl": 2,
+    "Hiragana": "あな",
+    "Kanji": "穴",
+    "Type": "Noun",
+    "Definition": "a hole, a pit, a deficit, a flaw"
+  },
+  {
+    "SN": 101,
+    "Lvl": 3,
+    "Hiragana": "アナウンサー",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 102,
+    "Lvl": 4,
+    "Hiragana": "あに",
+    "Kanji": "兄",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 103,
+    "Lvl": 4,
+    "Hiragana": "あね",
+    "Kanji": "姉",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 104,
+    "Lvl": 4,
+    "Hiragana": "アパート",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 105,
+    "Lvl": 2,
+    "Hiragana": "あばれる",
+    "Kanji": "暴れる",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 106,
+    "Lvl": 4,
+    "Hiragana": "あびる",
+    "Kanji": "浴びる",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 107,
+    "Lvl": 4,
+    "Hiragana": "あぶない",
+    "Kanji": "危ない",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 108,
+    "Lvl": 2,
+    "Hiragana": "あぶら",
+    "Kanji": "油/脂",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 109,
+    "Lvl": 3,
+    "Hiragana": "アフリカ",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 110,
+    "Lvl": 2,
+    "Hiragana": "あぶる",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 111,
+    "Lvl": 2,
+    "Hiragana": "あふれる",
+    "Kanji": "溢れる",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 112,
+    "Lvl": 4,
+    "Hiragana": "あまい",
+    "Kanji": "甘い",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 113,
+    "Lvl": 2,
+    "Hiragana": "あまど",
+    "Kanji": "雨戸",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 114,
+    "Lvl": 2,
+    "Hiragana": "あまやかす",
+    "Kanji": "甘やかす",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 115,
+    "Lvl": 4,
+    "Hiragana": "あまり",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 116,
+    "Lvl": 2,
+    "Hiragana": "あまり",
+    "Kanji": "余り",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 117,
+    "Lvl": 2,
+    "Hiragana": "あまる",
+    "Kanji": "余る",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 118,
+    "Lvl": 2,
+    "Hiragana": "あみもの",
+    "Kanji": "編み物",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 119,
+    "Lvl": 2,
+    "Hiragana": "あむ",
+    "Kanji": "編む",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 120,
+    "Lvl": 4,
+    "Hiragana": "あめ",
+    "Kanji": "雨",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 121,
+    "Lvl": 4,
+    "Hiragana": "あめ",
+    "Kanji": "飴",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 122,
+    "Lvl": 3,
+    "Hiragana": "アメリカ",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 123,
+    "Lvl": 2,
+    "Hiragana": "あやうい",
+    "Kanji": "危うい",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 124,
+    "Lvl": 2,
+    "Hiragana": "あやしい",
+    "Kanji": "怪しい",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 125,
+    "Lvl": 2,
+    "Hiragana": "あやまり",
+    "Kanji": "誤り",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 126,
+    "Lvl": 3,
+    "Hiragana": "あやまる",
+    "Kanji": "謝る",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 127,
+    "Lvl": 2,
+    "Hiragana": "あら",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 128,
+    "Lvl": 2,
+    "Hiragana": "あらい",
+    "Kanji": "荒い/粗い",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 129,
+    "Lvl": 4,
+    "Hiragana": "あらう",
+    "Kanji": "洗う",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 130,
+    "Lvl": 2,
+    "Hiragana": "あらし",
+    "Kanji": "嵐",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 131,
+    "Lvl": 2,
+    "Hiragana": "あらすじ",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 132,
+    "Lvl": 2,
+    "Hiragana": "あらそう",
+    "Kanji": "争う",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 133,
+    "Lvl": 2,
+    "Hiragana": "あらた",
+    "Kanji": "新",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 134,
+    "Lvl": 2,
+    "Hiragana": "あらためて",
+    "Kanji": "改めて",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 135,
+    "Lvl": 2,
+    "Hiragana": "あらためる",
+    "Kanji": "改める",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 136,
+    "Lvl": 2,
+    "Hiragana": "あらゆる",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 137,
+    "Lvl": 2,
+    "Hiragana": "あらわす",
+    "Kanji": "表す現す",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 138,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 139,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 140,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 141,
+    "Lvl": 4,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 142,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 143,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 144,
+    "Lvl": 4,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 145,
+    "Lvl": 3,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 146,
+    "Lvl": 3,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 147,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 148,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 149,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 150,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 151,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 152,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 153,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 154,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 155,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 156,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 157,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 158,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 159,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 160,
+    "Lvl": 3,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 161,
+    "Lvl": 3,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 162,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 163,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 164,
+    "Lvl": 3,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 165,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 166,
+    "Lvl": 3,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 167,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 168,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 169,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 170,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 171,
+    "Lvl": 4,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 172,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 173,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 174,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 175,
+    "Lvl": 4,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 176,
+    "Lvl": 4,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 177,
+    "Lvl": 3,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 178,
+    "Lvl": 3,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 179,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 180,
+    "Lvl": 4,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 181,
+    "Lvl": 3,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 182,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 183,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 184,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 185,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 186,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 187,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 188,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 189,
+    "Lvl": 3,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 190,
+    "Lvl": 3,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 191,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 192,
+    "Lvl": 4,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 193,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 194,
+    "Lvl": 4,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 195,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 196,
+    "Lvl": 4,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 197,
+    "Lvl": 3,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 198,
+    "Lvl": 4,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 199,
+    "Lvl": 2,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 200,
+    "Lvl": 3,
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 201,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 202,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 203,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 204,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 205,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 206,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 207,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 208,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 209,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 210,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 211,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 212,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 213,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 214,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 215,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 216,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 217,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 218,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 219,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 220,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 221,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 222,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 223,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 224,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 225,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 226,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 227,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 228,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 229,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 230,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 231,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 232,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 233,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 234,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 235,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 236,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 237,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 238,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 239,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 240,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 241,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 242,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 243,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 244,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 245,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 246,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 247,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 248,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 249,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 250,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 251,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 252,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 253,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 254,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 255,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 256,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 257,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 258,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 259,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 260,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 261,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 262,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 263,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 264,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 265,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 266,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 267,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 268,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 269,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 270,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 271,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 272,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 273,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 274,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 275,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 276,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 277,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 278,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 279,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 280,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 281,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 282,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 283,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 284,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 285,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 286,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 287,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 288,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 289,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 290,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 291,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 292,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 293,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 294,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 295,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 296,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 297,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 298,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 299,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 300,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  }
+]
