@@ -23,84 +23,107 @@
       integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
       crossorigin="anonymous"
     />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Material+Icons&display=swap"
+      rel="stylesheet"
+    />
+    <!-- <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons&display=swap"
+      rel="stylesheet"
+    /> -->
   </head>
 
   <body>
-    <nav
-      class="navbar fixed-top autohide navbar-expand-lg navbar-light bg-light"
-    >
-      <div class="container-fluid">
-        <a class="navbar-brand" href="#">N2 Prep</a>
-        <button
-          class="navbar-toggler"
-          type="button"
-          data-bs-toggle="collapse"
-          data-bs-target="#navbarSupportedContent"
-          aria-controls="navbarSupportedContent"
-          aria-expanded="false"
-          aria-label="Toggle navigation"
-        >
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-              <!-- <a class="nav-link active" aria-current="page" href="#">Home</a> -->
-              <!-- <p>Options</p> -->
-            </li>
-            <li class="nav-item">
-              <select
-                class="form-select"
-                id="practiceMode"
-                aria-label="Select Practice Mode"
-              >
-                <option selected>Select Practice Mode</option>
-                <option value="kanji">Kanji</option>
-                <option value="hiragana">Hiragana</option>
-                <option value="eng">Definitions</option>
-              </select>
-            </li>
-            <li>
-              <label for="minRange" class="">Min</label>
-              <!-- <output>1</output> -->
-              <input
-                type="number"
-                class="form-control"
-                id="manualMin"
-                placeholder="1"
-                value="1"
-              />
-              <input
-                type="range"
-                class="form-range"
-                min="1"
-                max="200"
-                id="minRange"
-                value="0"
-              />
-            </li>
-            <li>
-              <label for="maxRange" class="form-label">Max</label>
-              <input
-                type="number"
-                class="form-control"
-                id="manualMax"
-                placeholder="5000"
-                value="5000"
-              />
-              <input
-                type="range"
-                class="form-range"
-                min="1"
-                max="5000"
-                value="5000"
-                id="maxRange"
-              />
-            </li>
-          </ul>
+    <div id="main-spinner" class="container">
+      <div class="container">
+        <div class="spinner-border text-primary position-fixed" role="status">
+          <span class="visually-hidden">Loading...</span>
+        </div>
+        <p class="spinner-text text-center position-fixed">Loading...</p>
+      </div>
+    </div>
 
-          <form class="d-flex">
-            <!-- <input
+    <div id="main-body" style="display: none">
+      <nav
+        class="navbar fixed-top autohide navbar-expand-lg navbar-light bg-light"
+      >
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">N2 Prep</a>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <!-- <a class="nav-link active" aria-current="page" href="#">Home</a> -->
+                <!-- <p>Options</p> -->
+              </li>
+              <li class="nav-item">
+                <label for="minRange" class="form-label rangeSlider"
+                  >Practice Mode</label
+                >
+                <select
+                  class="form-select"
+                  id="practiceMode"
+                  aria-label="Select Practice Mode"
+                >
+                  <option selected>Select Practice Mode</option>
+                  <option value="kanji">Kanji</option>
+                  <option value="hiragana">Hiragana</option>
+                  <option value="eng">Definitions</option>
+                </select>
+              </li>
+              <li class="nav-item">
+                <label for="minRange" class="form-label rangeSlider">Min</label>
+                <!-- <output>1</output> -->
+                <input
+                  type="number"
+                  class="form-control rangeSlider"
+                  id="manualMin"
+                  placeholder="1"
+                  value="1"
+                />
+                <input
+                  type="range"
+                  class="form-range rangeSlider"
+                  min="1"
+                  max="200"
+                  id="minRange"
+                  value="0"
+                />
+              </li>
+              <li class="nav-item">
+                <label for="maxRange" class="form-label rangeSlider">Max</label>
+                <input
+                  type="number"
+                  class="form-control"
+                  id="manualMax"
+                  placeholder="5000"
+                  value="5000"
+                />
+                <input
+                  type="range"
+                  class="form-range rangeSlider"
+                  min="1"
+                  max="5000"
+                  value="5000"
+                  id="maxRange"
+                />
+              </li>
+            </ul>
+
+            <form class="d-flex">
+              <!-- <input
               class="form-control me-2"
               type="search"
               id=""
@@ -108,62 +131,71 @@
               aria-label="Search"
             /> -->
 
-            <!-- <button class="btn btn-outline-success" type="submit">
+              <!-- <button class="btn btn-outline-success" type="submit">
               Search
             </button> -->
-          </form>
+            </form>
+          </div>
         </div>
-      </div>
-    </nav>
+      </nav>
 
-    <div class="container">
-      <div class="row">
-        <input
-          class="form-control me-2"
-          type="search"
-          id="searchFilter"
-          placeholder="Type in English or Japanese to start filtering"
-          aria-label="Search"
-        />
-      </div>
-      <div class="row">
-        <div class="col">
-          <!-- Results -->
-          <script type="text/template" id="resultsTemplate-hiragana">
-            <div class="card flashcard">
-              <div class="card-body">
-                <p class="text-end index">{{ SN }}</p>
-                <h2 class="card-title text-center">{{ Hiragana }} </h2>
-                <p class="card-text text-center">{{Definition}}</p>
-                <p class="card-text text-center flashcard__target hidden">{{ Kanji }}</p>
-                <!-- <a href="#" class="btn btn-primary">Show</a> -->
+      <div class="container">
+        <div class="row">
+          <input
+            class="form-control me-2"
+            type="search"
+            id="searchFilter"
+            placeholder="Type in English or Japanese to start filtering"
+            aria-label="Search"
+          />
+        </div>
+        <div class="row">
+          <div class="col">
+            <!-- Results -->
+            <script type="text/template" id="resultsTemplate-hiragana">
+              <div class="card flashcard">
+                <div class="card-body">
+                  <p class="text-end index">{{ SN }}</p>
+                  <h2 class="card-title text-center">{{ Hiragana }} </h2>
+                  <p class="card-text text-center">{{Definition}}</p>
+                  <p class="card-text text-center flashcard__target hidden">{{ Kanji }}</p>
+                  <!-- <a href="#" class="btn btn-primary">Show</a> -->
+                </div>
               </div>
-            </div>
-          </script>
-          <script type="text/template" id="resultsTemplate-kanji">
-            <div class="card flashcard">
-              <div class="card-body">
-                <p class="text-end index">{{ SN }}</p>
-                <h2 class="card-title text-center">{{ Kanji }} </h2>
-                <p class="card-text text-center flashcard__target hidden">{{ Hiragana }}</p>
-                <p class="card-text text-center flashcard__target hidden">{{Definition}}</p>
-                <!-- <a href="#" class="btn btn-primary">Show</a> -->
+            </script>
+            <script type="text/template" id="resultsTemplate-kanji">
+              <div class="card flashcard">
+                <div class="card-body">
+                  <p class="text-end index">{{ SN }}</p>
+                  <h2 class="card-title text-center">{{ Kanji }} </h2>
+                  <p class="card-text text-center flashcard__target hidden">{{ Hiragana }}</p>
+                  <p class="card-text text-center flashcard__target hidden">{{Definition}}</p>
+                  <!-- <a href="#" class="btn btn-primary">Show</a> -->
+                </div>
               </div>
-            </div>
-          </script>
-          <script type="text/template" id="resultsTemplate-eng">
-            <div class="card flashcard">
-              <div class="card-body">
-                <p class="text-end index">{{ SN }}</p>
-                <h2 class="card-title text-center">{{ Definition }} </h2>
-                <p class="card-text text-center flashcard__target hidden">{{ Kanji }}</p>
-                <p class="card-text text-center flashcard__target hidden">{{Hiragana}}</p>
-                <!-- <a href="#" class="btn btn-primary">Show</a> -->
+            </script>
+            <script type="text/template" id="resultsTemplate-eng">
+              <div class="card flashcard">
+                <div class="card-body">
+                  <p class="text-end index">{{ SN }}</p>
+                  <h2 class="card-title text-center">{{ Definition }} </h2>
+                  <p class="card-text text-center flashcard__target hidden">{{ Kanji }}</p>
+                  <p class="card-text text-center flashcard__target hidden">{{Hiragana}}</p>
+                  <!-- <a href="#" class="btn btn-primary">Show</a> -->
+                </div>
               </div>
-            </div>
-          </script>
+            </script>
 
-          <div id="results"></div>
+            <div id="results"></div>
+            <!-- Back to top button -->
+            <button
+              type="button"
+              class="btn btn-danger btn-floating btn-lg rounded-circle"
+              id="btn-back-to-top"
+            >
+              <span class="material-icons text-center"> arrow_upward </span>
+            </button>
+          </div>
         </div>
       </div>
     </div>
@@ -189,6 +221,6 @@
       integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
       crossorigin="anonymous"
     ></script>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   </body>
 </html>

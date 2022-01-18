@@ -805,7 +805,7 @@
     "Hiragana": "アナウンサー",
     "Kanji": "",
     "Type": "Noun",
-    "Definition": ""
+    "Definition": "announcer"
   },
   {
     "SN": 102,
@@ -813,7 +813,7 @@
     "Hiragana": "あに",
     "Kanji": "兄",
     "Type": "Noun",
-    "Definition": ""
+    "Definition": "(my) elder brother"
   },
   {
     "SN": 103,
@@ -821,7 +821,7 @@
     "Hiragana": "あね",
     "Kanji": "姉",
     "Type": "Noun",
-    "Definition": ""
+    "Definition": "(my) elder sister"
   },
   {
     "SN": 104,
@@ -829,7 +829,7 @@
     "Hiragana": "アパート",
     "Kanji": "",
     "Type": "Noun",
-    "Definition": ""
+    "Definition": "apartment"
   },
   {
     "SN": 105,
@@ -837,7 +837,7 @@
     "Hiragana": "あばれる",
     "Kanji": "暴れる",
     "Type": "Verb II",
-    "Definition": ""
+    "Definition": "act violently, rage, run amuck.amok, riot become unruly, struggle"
   },
   {
     "SN": 106,
@@ -845,7 +845,7 @@
     "Hiragana": "あびる",
     "Kanji": "浴びる",
     "Type": "Verb II",
-    "Definition": ""
+    "Definition": "take a shower"
   },
   {
     "SN": 107,
@@ -853,7 +853,7 @@
     "Hiragana": "あぶない",
     "Kanji": "危ない",
     "Type": "I-Adjectives",
-    "Definition": ""
+    "Definition": "dangerous, risky, hazardous"
   },
   {
     "SN": 108,
@@ -861,7 +861,7 @@
     "Hiragana": "あぶら",
     "Kanji": "油/脂",
     "Type": "Noun",
-    "Definition": ""
+    "Definition": "oil, fat, lard, grease"
   },
   {
     "SN": 109,
@@ -869,7 +869,7 @@
     "Hiragana": "アフリカ",
     "Kanji": "",
     "Type": "Noun",
-    "Definition": ""
+    "Definition": "Africa"
   },
   {
     "SN": 110,
@@ -877,7 +877,7 @@
     "Hiragana": "あぶる",
     "Kanji": "",
     "Type": "Verb I",
-    "Definition": ""
+    "Definition": "broil, roast"
   },
   {
     "SN": 111,
@@ -885,7 +885,7 @@
     "Hiragana": "あふれる",
     "Kanji": "溢れる",
     "Type": "Verb II",
-    "Definition": ""
+    "Definition": "overflow, flood, be inundated, be crowded, be full of"
   },
   {
     "SN": 112,
@@ -893,7 +893,7 @@
     "Hiragana": "あまい",
     "Kanji": "甘い",
     "Type": "I-Adjectives",
-    "Definition": ""
+    "Definition": "sweet"
   },
   {
     "SN": 113,
@@ -901,7 +901,7 @@
     "Hiragana": "あまど",
     "Kanji": "雨戸",
     "Type": "Noun",
-    "Definition": ""
+    "Definition": "a storm door, sliding storm shutters"
   },
   {
     "SN": 114,
@@ -909,7 +909,7 @@
     "Hiragana": "あまやかす",
     "Kanji": "甘やかす",
     "Type": "Verb I",
-    "Definition": ""
+    "Definition": "indulge, be indulgent, spoil"
   },
   {
     "SN": 115,
@@ -917,7 +917,7 @@
     "Hiragana": "あまり",
     "Kanji": "",
     "Type": "Adverbs",
-    "Definition": ""
+    "Definition": "not so"
   },
   {
     "SN": 116,
@@ -925,7 +925,7 @@
     "Hiragana": "あまり",
     "Kanji": "余り",
     "Type": "Noun",
-    "Definition": ""
+    "Definition": "the rest, the remainder, more than, over / 5年～前に: more than 5 years ago"
   },
   {
     "SN": 117,
@@ -933,7 +933,7 @@
     "Hiragana": "あまる",
     "Kanji": "余る",
     "Type": "Verb I",
-    "Definition": ""
+    "Definition": "be kleft over, surpass, be beyond one's power"
   },
   {
     "SN": 118,
@@ -941,7 +941,7 @@
     "Hiragana": "あみもの",
     "Kanji": "編み物",
     "Type": "Noun",
-    "Definition": ""
+    "Definition": "knitting, crochet, knitted items/goods"
   },
   {
     "SN": 119,
@@ -949,7 +949,7 @@
     "Hiragana": "あむ",
     "Kanji": "編む",
     "Type": "Verb I",
-    "Definition": ""
+    "Definition": "knit, crochet, braid, weave, compile, edit, plan, arrange"
   },
   {
     "SN": 120,
@@ -957,7 +957,7 @@
     "Hiragana": "あめ",
     "Kanji": "雨",
     "Type": "Noun",
-    "Definition": ""
+    "Definition": "rain"
   },
   {
     "SN": 121,
@@ -965,7 +965,7 @@
     "Hiragana": "あめ",
     "Kanji": "飴",
     "Type": "Noun",
-    "Definition": ""
+    "Definition": "candy"
   },
   {
     "SN": 122,
@@ -973,7 +973,7 @@
     "Hiragana": "アメリカ",
     "Kanji": "",
     "Type": "Noun",
-    "Definition": ""
+    "Definition": "America"
   },
   {
     "SN": 123,
@@ -981,7 +981,7 @@
     "Hiragana": "あやうい",
     "Kanji": "危うい",
     "Type": "I-Adjectives",
-    "Definition": ""
+    "Definition": "dangerous, unsteady, uncertain, doubtful"
   },
   {
     "SN": 124,
@@ -989,7 +989,7 @@
     "Hiragana": "あやしい",
     "Kanji": "怪しい",
     "Type": "I-Adjectives",
-    "Definition": ""
+    "Definition": "strange, mysterious, suspicious"
   },
   {
     "SN": 125,
@@ -997,7 +997,7 @@
     "Hiragana": "あやまり",
     "Kanji": "誤り",
     "Type": "Noun",
-    "Definition": ""
+    "Definition": "error, mistake"
   },
   {
     "SN": 126,
@@ -1005,7 +1005,7 @@
     "Hiragana": "あやまる",
     "Kanji": "謝る",
     "Type": "Verb I",
-    "Definition": ""
+    "Definition": "apologise"
   },
   {
     "SN": 127,
@@ -1013,7 +1013,7 @@
     "Hiragana": "あら",
     "Kanji": "",
     "Type": "Interjection",
-    "Definition": ""
+    "Definition": "aw, oh, wow, why"
   },
   {
     "SN": 128,
@@ -1021,7 +1021,7 @@
     "Hiragana": "あらい",
     "Kanji": "荒い/粗い",
     "Type": "I-Adjectives",
-    "Definition": ""
+    "Definition": "rough / 金遣いが～: spend his money recklessly"
   },
   {
     "SN": 129,
@@ -1029,7 +1029,7 @@
     "Hiragana": "あらう",
     "Kanji": "洗う",
     "Type": "Verb I",
-    "Definition": ""
+    "Definition": "wash"
   },
   {
     "SN": 130,
@@ -1037,7 +1037,7 @@
     "Hiragana": "あらし",
     "Kanji": "嵐",
     "Type": "Noun",
-    "Definition": ""
+    "Definition": "a storm, a difficulty, a trouble"
   },
   {
     "SN": 131,
@@ -1045,7 +1045,7 @@
     "Hiragana": "あらすじ",
     "Kanji": "",
     "Type": "Noun",
-    "Definition": ""
+    "Definition": "an outline, a brief/rough outline, a summary, a synopsis"
   },
   {
     "SN": 132,
@@ -1053,7 +1053,7 @@
     "Hiragana": "あらそう",
     "Kanji": "争う",
     "Type": "Verb I",
-    "Definition": ""
+    "Definition": "compete, contend, struggled, race, fight, dispute"
   },
   {
     "SN": 133,
@@ -1061,7 +1061,7 @@
     "Hiragana": "あらた",
     "Kanji": "新",
     "Type": "Na-Adjectives",
-    "Definition": ""
+    "Definition": "new, newly, renew, fresh"
   },
   {
     "SN": 134,
@@ -1069,7 +1069,7 @@
     "Hiragana": "あらためて",
     "Kanji": "改めて",
     "Type": "Adverbs",
-    "Definition": ""
+    "Definition": "once more, some other time, later"
   },
   {
     "SN": 135,
@@ -1077,1314 +1077,1330 @@
     "Hiragana": "あらためる",
     "Kanji": "改める",
     "Type": "Verb II",
-    "Definition": ""
+    "Definition": "renew, change, reform, correct, examine, count"
   },
   {
     "SN": 136,
     "Lvl": 2,
     "Hiragana": "あらゆる",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Prefix",
+    "Definition": "all, every"
   },
   {
     "SN": 137,
     "Lvl": 2,
     "Hiragana": "あらわす",
     "Kanji": "表/現/著す",
-    "Type": "",
-    "Definition": ""
+    "Type": "Verb I",
+    "Definition": "show, express, signify, represent, symbolize, stand for"
   },
   {
     "SN": 138,
     "Lvl": 2,
     "Hiragana": "あらわれ",
     "Kanji": "現れ",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "an expression, a manifestation, an outcome, a sign"
   },
   {
     "SN": 139,
     "Lvl": 2,
     "Hiragana": "あらわれる",
     "Kanji": "現れる",
-    "Type": "",
-    "Definition": ""
+    "Type": "Verb II",
+    "Definition": "appear, come out, show up"
   },
   {
     "SN": 140,
     "Lvl": 2,
     "Hiragana": "ありがたい",
     "Kanji": "有難い",
-    "Type": "",
-    "Definition": ""
+    "Type": "I-Adjectives",
+    "Definition": "appreciate, thankful, fourtunate welcome, edifying, merciful, gracious, bountiful"
   },
   {
     "SN": 141,
     "Lvl": 4,
     "Hiragana": "ある",
     "Kanji": "ある/在る/有る",
-    "Type": "",
-    "Definition": ""
+    "Type": "Verb I",
+    "Definition": "have, hold"
   },
   {
     "SN": 142,
     "Lvl": 2,
     "Hiragana": "ある",
     "Kanji": "或る",
-    "Type": "",
-    "Definition": ""
+    "Type": "Prefix",
+    "Definition": "a certain, one, some / ~所に: at a certain place / ~日: one day"
   },
   {
     "SN": 143,
     "Lvl": 2,
     "Hiragana": "あるいは",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Adverb, Conjunction",
+    "Definition": "or, either... or, perhaps"
   },
   {
     "SN": 144,
     "Lvl": 4,
     "Hiragana": "あるく",
     "Kanji": "歩く",
-    "Type": "",
-    "Definition": ""
+    "Type": "Verb I",
+    "Definition": "walk"
   },
   {
     "SN": 145,
     "Lvl": 3,
     "Hiragana": "アルコール",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "alcohol"
   },
   {
     "SN": 146,
     "Lvl": 3,
     "Hiragana": "アルバイト",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun III",
+    "Definition": "part-time job"
   },
   {
     "SN": 147,
     "Lvl": 2,
     "Hiragana": "アルバム",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "an album"
   },
   {
     "SN": 148,
     "Lvl": 2,
     "Hiragana": "あれ",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Instruction, Interjection",
+    "Definition": "that, those, ah?"
   },
   {
     "SN": 149,
     "Lvl": 2,
     "Hiragana": "あれこれ",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Adverb, Noun",
+    "Definition": "this and that / ~と考える: wonder, work, ponder"
   },
   {
     "SN": 150,
     "Lvl": 2,
     "Hiragana": "あれる",
     "Kanji": "荒れる",
-    "Type": "",
-    "Definition": ""
+    "Type": "Verb II",
+    "Definition": "be rough, be stormy"
   },
   {
     "SN": 151,
     "Lvl": 2,
     "Hiragana": "あわ",
     "Kanji": "泡",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "a bubble, foam, head"
   },
   {
     "SN": 152,
     "Lvl": 2,
     "Hiragana": "あわせる",
     "Kanji": "合わせる",
-    "Type": "",
-    "Definition": ""
+    "Type": "Verb II",
+    "Definition": "put together, add, adjust, set, tune, adapt oneself, fit, check accompaniment, mix"
   },
   {
     "SN": 153,
     "Lvl": 2,
     "Hiragana": "あわただし",
     "Kanji": "慌ただし",
-    "Type": "",
-    "Definition": ""
+    "Type": "I-Adjectives",
+    "Definition": "busy, hurried, rushed / ～く: busily, in a hurry/flurry"
   },
   {
     "SN": 154,
     "Lvl": 2,
     "Hiragana": "あわてる",
     "Kanji": "慌てる",
-    "Type": "",
-    "Definition": ""
+    "Type": "Verb II",
+    "Definition": "be flurried"
   },
   {
     "SN": 155,
     "Lvl": 2,
     "Hiragana": "あわれ",
     "Kanji": "哀れ",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun, Na-adjectives",
+    "Definition": "pity / ~な: pitiful, miserable, touching"
   },
   {
     "SN": 156,
     "Lvl": 2,
     "Hiragana": "あん",
     "Kanji": "案",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "a plan, a proposal, an idea, expectation"
   },
   {
     "SN": 157,
     "Lvl": 2,
     "Hiragana": "あんい",
     "Kanji": "安易",
-    "Type": "",
-    "Definition": ""
+    "Type": "Na-Adjectives",
+    "Definition": "easy, easygoing"
   },
   {
     "SN": 158,
     "Lvl": 2,
     "Hiragana": "あんがい",
     "Kanji": "案外",
-    "Type": "",
-    "Definition": ""
+    "Type": "Adverb, Noun, Na-adjectives",
+    "Definition": "unexpectedly, surprisingly"
   },
   {
     "SN": 159,
     "Lvl": 2,
     "Hiragana": "あんき",
     "Kanji": "暗記",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun III",
+    "Definition": "~する: learn a thing by heart, memorise, commit a thing to memory"
   },
   {
     "SN": 160,
     "Lvl": 3,
     "Hiragana": "あんしん（する）",
     "Kanji": "安心（する）",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun III",
+    "Definition": "feel relieved"
   },
   {
     "SN": 161,
     "Lvl": 3,
     "Hiragana": "あんぜん",
     "Kanji": "安全",
-    "Type": "",
-    "Definition": ""
+    "Type": "Na-Adjectives",
+    "Definition": "safety, safe"
   },
   {
     "SN": 162,
     "Lvl": 2,
     "Hiragana": "あんてい",
     "Kanji": "安定",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun III",
+    "Definition": "stability, steadiness"
   },
   {
     "SN": 163,
     "Lvl": 2,
     "Hiragana": "アンテナ",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "an antenna, an aerial"
   },
   {
     "SN": 164,
     "Lvl": 3,
     "Hiragana": "あんな",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Instruction",
+    "Definition": "like that (indicating a visible example)"
   },
   {
     "SN": 165,
     "Lvl": 2,
     "Hiragana": "あんない",
     "Kanji": "案内",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun III",
+    "Definition": "guidance, invitation, guide, notice"
   },
   {
     "SN": 166,
     "Lvl": 3,
     "Hiragana": "あんない（する）",
     "Kanji": "案内（する）",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun III",
+    "Definition": "guide, show"
   },
   {
     "SN": 167,
     "Lvl": 2,
     "Hiragana": "あんなに",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Adverb",
+    "Definition": "such...as, so, like that"
   },
   {
     "SN": 168,
     "Lvl": 2,
     "Hiragana": "あんまり",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun, Na-Adjectives, Adverb",
+    "Definition": "too~, so~, terrible, awful, merciless"
   },
   {
     "SN": 169,
     "Lvl": 2,
     "Hiragana": "～い",
     "Kanji": "～位",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "place / e.g. first place"
   },
   {
     "SN": 170,
     "Lvl": 2,
     "Hiragana": "い",
     "Kanji": "胃",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "the stomach"
   },
   {
     "SN": 171,
     "Lvl": 4,
     "Hiragana": "いい/よい",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "I-Adjectives",
+    "Definition": "good"
   },
   {
     "SN": 172,
     "Lvl": 2,
     "Hiragana": "いいだす",
     "Kanji": "言い出す",
-    "Type": "",
-    "Definition": ""
+    "Type": "Verb I",
+    "Definition": "bring up, speak out, propose, suggest"
   },
   {
     "SN": 173,
     "Lvl": 2,
     "Hiragana": "いいつける",
     "Kanji": "言いつける",
-    "Type": "",
-    "Definition": ""
+    "Type": "Verb II",
+    "Definition": "order, tell, instruct / tell tales, tell on"
   },
   {
     "SN": 174,
     "Lvl": 2,
     "Hiragana": "いいん",
     "Kanji": "委員",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "a committee, a commission, a member of a committee, a committee member"
   },
   {
     "SN": 175,
     "Lvl": 4,
     "Hiragana": "いう",
     "Kanji": "言う",
-    "Type": "",
-    "Definition": ""
+    "Type": "Verb I",
+    "Definition": "say, tell"
   },
   {
     "SN": 176,
     "Lvl": 4,
     "Hiragana": "いえ",
     "Kanji": "家",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "house"
   },
   {
     "SN": 177,
     "Lvl": 3,
     "Hiragana": "いか",
     "Kanji": "以下",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "less than"
   },
   {
     "SN": 178,
     "Lvl": 3,
     "Hiragana": "いがい",
     "Kanji": "以外",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "except, besides"
   },
   {
     "SN": 179,
     "Lvl": 2,
     "Hiragana": "いがい",
     "Kanji": "意外",
-    "Type": "",
-    "Definition": ""
+    "Type": "Na-Adjectives, Adverb",
+    "Definition": "unexpected, surprising"
   },
   {
     "SN": 180,
     "Lvl": 4,
     "Hiragana": "いかが",
     "Kanji": "如何",
-    "Type": "",
-    "Definition": ""
+    "Type": "Question",
+    "Definition": "what; how about"
   },
   {
     "SN": 181,
     "Lvl": 3,
     "Hiragana": "いがく",
     "Kanji": "医学",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "medical science"
   },
   {
     "SN": 182,
     "Lvl": 2,
     "Hiragana": "いき",
     "Kanji": "息",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "breath, breathing / ～を吐く: exhale　～を吸う: inhale"
   },
   {
     "SN": 183,
     "Lvl": 2,
     "Hiragana": "いぎ",
     "Kanji": "意義",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "meaning, importance, significance / ～のある: worthwhile　～のない: meaningless"
   },
   {
     "SN": 184,
     "Lvl": 2,
     "Hiragana": "いき/ゆき",
     "Kanji": "行き",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "way to, bound for / ～と帰り: one way's to and from"
   },
   {
     "SN": 185,
     "Lvl": 2,
     "Hiragana": "いきいき",
     "Kanji": "生き生き",
-    "Type": "",
-    "Definition": ""
+    "Type": "Adverb",
+    "Definition": "fresh, lively, vivid, bright, alive"
   },
   {
     "SN": 186,
     "Lvl": 2,
     "Hiragana": "いきおい",
     "Kanji": "勢い",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "force, energy, vigor, vigour, momentum, influence"
   },
   {
     "SN": 187,
     "Lvl": 2,
     "Hiragana": "いきなり",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun, Adverbs",
+    "Definition": "suddenly, all of a sudden, abruptly, without (any) warning"
   },
   {
     "SN": 188,
     "Lvl": 2,
     "Hiragana": "いきもの",
     "Kanji": "生き物",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "a living thing/being, a living creature, life"
   },
   {
     "SN": 189,
     "Lvl": 3,
     "Hiragana": "イギリス",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "UK, England"
   },
   {
     "SN": 190,
     "Lvl": 3,
     "Hiragana": "いきる",
     "Kanji": "生きる",
-    "Type": "",
-    "Definition": ""
+    "Type": "Verb II",
+    "Definition": "live"
   },
   {
     "SN": 191,
     "Lvl": 2,
     "Hiragana": "いく～",
     "Kanji": "幾～",
-    "Type": "",
-    "Definition": ""
+    "Type": "Prefix",
+    "Definition": "some, many / ～ら？:how much? / ～らかよくなりました I feel a little better"
   },
   {
     "SN": 192,
     "Lvl": 4,
     "Hiragana": "いく/ゆく",
     "Kanji": "行く",
-    "Type": "",
-    "Definition": ""
+    "Type": "Verb I",
+    "Definition": "go"
   },
   {
     "SN": 193,
     "Lvl": 2,
     "Hiragana": "いくじ",
     "Kanji": "育児",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "child care, nursing"
   },
   {
     "SN": 194,
     "Lvl": 4,
     "Hiragana": "いくつ",
     "Kanji": "幾つ",
-    "Type": "",
-    "Definition": ""
+    "Type": "Question",
+    "Definition": "how many"
   },
   {
     "SN": 195,
     "Lvl": 2,
     "Hiragana": "いくぶん",
     "Kanji": "幾分",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun, Adverbs",
+    "Definition": "somewhat, a little, a part, a portion"
   },
   {
     "SN": 196,
     "Lvl": 4,
     "Hiragana": "いくら",
     "Kanji": "幾ら",
-    "Type": "",
-    "Definition": ""
+    "Type": "Question",
+    "Definition": "how much"
   },
   {
     "SN": 197,
     "Lvl": 3,
     "Hiragana": "いくら～ても",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Grammar",
+    "Definition": "Even though~"
   },
   {
     "SN": 198,
     "Lvl": 4,
     "Hiragana": "いけ",
     "Kanji": "池",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "pond"
   },
   {
     "SN": 199,
     "Lvl": 2,
     "Hiragana": "いけばな",
     "Kanji": "生け花",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "flower arrangement, ～た花: flower arranged (in a vase)"
   },
   {
     "SN": 200,
     "Lvl": 3,
     "Hiragana": "いけん",
     "Kanji": "意見",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "opinion"
   },
   {
     "SN": 201,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いご",
+    "Kanji": "以後",
+    "Type": "Others",
+    "Definition": "after, since, from, after this, from now on, hereafter, in the future"
   },
   {
     "SN": 202,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いこう",
+    "Kanji": "以降",
+    "Type": "Noun",
+    "Definition": "after, since, from"
   },
   {
     "SN": 203,
-    "Lvl": "",
-    "Hiragana": "",
+    "Lvl": 2,
+    "Hiragana": "イコール",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "an equal sign"
   },
   {
     "SN": 204,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いさましい",
+    "Kanji": "勇ましい",
+    "Type": "I-Adjectives",
+    "Definition": "brave, courageous, gallant, valiant, daring, bold, stirring"
   },
   {
     "SN": 205,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 3,
+    "Hiragana": "いし",
+    "Kanji": "石",
+    "Type": "Noun",
+    "Definition": "stone"
   },
   {
     "SN": 206,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いし",
+    "Kanji": "医師",
+    "Type": "Noun",
+    "Definition": "doctor"
   },
   {
     "SN": 207,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いし",
+    "Kanji": "意思/意志",
+    "Type": "Noun",
+    "Definition": "a mind (to do), intention, wish / will (to do), volition"
   },
   {
     "SN": 208,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いじ",
+    "Kanji": "維持",
+    "Type": "Noun III",
+    "Definition": "maintenance / ～する: maintain, keep, save, preserve"
   },
   {
     "SN": 209,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いしき",
+    "Kanji": "意識",
+    "Type": "Noun III",
+    "Definition": "consciousness /  ～する: be conscious/aware"
   },
   {
     "SN": 210,
-    "Lvl": "",
-    "Hiragana": "",
+    "Lvl": 3,
+    "Hiragana": "いじめる",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Verb II",
+    "Definition": "torment, bully"
   },
   {
     "SN": 211,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 4,
+    "Hiragana": "いしゃ",
+    "Kanji": "医者",
+    "Type": "Noun",
+    "Definition": "doctor"
   },
   {
     "SN": 212,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 3,
+    "Hiragana": "いじょう",
+    "Kanji": "以上",
+    "Type": "Noun",
+    "Definition": "more than"
   },
   {
     "SN": 213,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いじょう",
+    "Kanji": "異常",
+    "Type": "Noun, Na-adjectives",
+    "Definition": "unusual, extraordinary, abnormal, peculiar, singular, uncommon, remarkable"
   },
   {
     "SN": 214,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いしょくじゅう",
+    "Kanji": "衣食住",
+    "Type": "Noun",
+    "Definition": "food, clothing and shelter, creature comforts"
   },
   {
     "SN": 215,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いじわる",
+    "Kanji": "意地悪",
+    "Type": "Noun, Na-adjectives",
+    "Definition": "ill-natured, spiteful, mean /  ～をする: be unkind, do something spiteful/mean"
   },
   {
     "SN": 216,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 4,
+    "Hiragana": "いす",
+    "Kanji": "椅子",
+    "Type": "Noun",
+    "Definition": "chair(s)"
   },
   {
     "SN": 217,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いずみ",
+    "Kanji": "泉",
+    "Type": "Noun",
+    "Definition": "a spring, fountain"
   },
   {
     "SN": 218,
-    "Lvl": "",
-    "Hiragana": "",
+    "Lvl": 2,
+    "Hiragana": "いずれ",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun, Adverbs",
+    "Definition": "anyway, in any case, at any rate, one of these days, someday"
   },
   {
     "SN": 219,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いぜん",
+    "Kanji": "以前",
+    "Type": "Noun",
+    "Definition": "before"
   },
   {
     "SN": 220,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 4,
+    "Hiragana": "いそがしい",
+    "Kanji": "忙しい",
+    "Type": "I-Adjectives",
+    "Definition": "busy, hurried, rushed / ～く: busily, in a hurry/flurry"
   },
   {
     "SN": 221,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 3,
+    "Hiragana": "いそぐ",
+    "Kanji": "急ぐ",
+    "Type": "Verb I",
+    "Definition": "hurry, make haste"
   },
   {
     "SN": 222,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いた",
+    "Kanji": "板",
+    "Type": "Noun",
+    "Definition": "a board, a plank"
   },
   {
     "SN": 223,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 4,
+    "Hiragana": "いたい",
+    "Kanji": "痛い",
+    "Type": "I-Adjectives",
+    "Definition": "painful"
   },
   {
     "SN": 224,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いだい",
+    "Kanji": "偉大",
+    "Type": "Na-Adjectives",
+    "Definition": "great, grand /  ～な人: a great person"
   },
   {
     "SN": 225,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いだく",
+    "Kanji": "抱く",
+    "Type": "Verb I",
+    "Definition": "hold, embrace, hug, have, bear, entertain, harbour / 希望を～: cherish a hope"
   },
   {
     "SN": 226,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 3,
+    "Hiragana": "いたす",
+    "Kanji": "致す",
+    "Type": "Verb I",
+    "Definition": "do (humble form)"
   },
   {
     "SN": 227,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いたずら",
+    "Kanji": "悪戯",
+    "Type": "Na-Adjectives, Noun III",
+    "Definition": "michief, practical joke, prank"
   },
   {
     "SN": 228,
-    "Lvl": "",
-    "Hiragana": "",
+    "Lvl": 2,
+    "Hiragana": "いただきます",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Greetings, Others",
+    "Definition": "Let's eat. Shall we begin?"
   },
   {
     "SN": 229,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 3,
+    "Hiragana": "いただく",
+    "Kanji": "頂く",
+    "Type": "Verb I",
+    "Definition": "receive (humble form もらう)"
   },
   {
     "SN": 230,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いたみ",
+    "Kanji": "痛み",
+    "Type": "Noun",
+    "Definition": "pain, ache, sorrow, distress"
   },
   {
     "SN": 231,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いたむ",
+    "Kanji": "痛む",
+    "Type": "Verb I",
+    "Definition": "hurt, prickle, feel prickly, sting, smart, painful / be grieved, fee sad"
   },
   {
     "SN": 232,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いたる",
+    "Kanji": "至る",
+    "Type": "Verb I",
+    "Definition": "lead to, come, extend"
   },
   {
     "SN": 233,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "～いち",
+    "Kanji": "～一",
+    "Type": "Noun",
+    "Definition": "the top of"
   },
   {
     "SN": 234,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いち",
+    "Kanji": "位置",
+    "Type": "Noun",
+    "Definition": "place, position, location"
   },
   {
     "SN": 235,
-    "Lvl": "",
-    "Hiragana": "",
+    "Lvl": 2,
+    "Hiragana": "いちいち",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Adverbs",
+    "Definition": "one by one, everything, in detail"
   },
   {
     "SN": 236,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いちおう",
+    "Kanji": "一応",
+    "Type": "Adverbs, Noun",
+    "Definition": "just in case, for the present time being"
   },
   {
     "SN": 237,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いちじ",
+    "Kanji": "一時",
+    "Type": "Noun",
+    "Definition": "at one time, in a moment, instantly, once, for a time, for the time being"
   },
   {
     "SN": 238,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いちだんと",
+    "Kanji": "一段と",
+    "Type": "Adverbs",
+    "Definition": "further, much / ～を進歩する: make further progress"
   },
   {
     "SN": 239,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 3,
+    "Hiragana": "いちど",
+    "Kanji": "一度",
+    "Type": "Adverbs",
+    "Definition": "once"
   },
   {
     "SN": 240,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いちどに",
+    "Kanji": "一度に",
+    "Type": "Adverbs",
+    "Definition": "at once, at a time, simultaneously, at a stretch/sitting, all together"
   },
   {
     "SN": 241,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いちば",
+    "Kanji": "市場",
+    "Type": "Noun",
+    "Definition": "a market (place)"
   },
   {
     "SN": 242,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いちばん",
+    "Kanji": "一番",
+    "Type": "Noun, Adverbs",
+    "Definition": "Number one, No. 1, the first, the head/top, the most"
   },
   {
     "SN": 243,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いちぶ",
+    "Kanji": "一部",
+    "Type": "Noun",
+    "Definition": "a part, a portion, partly, some / a copy, a volume / the best group"
   },
   {
     "SN": 244,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いちりゅう",
+    "Kanji": "一流",
+    "Type": "Noun",
+    "Definition": "first-class, first-rate, the first rank"
   },
   {
     "SN": 245,
-    "Lvl": "",
-    "Hiragana": "",
+    "Lvl": 4,
+    "Hiragana": "いつ",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Question",
+    "Definition": "when"
   },
   {
     "SN": 246,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いっか",
+    "Kanji": "一家",
+    "Type": "Noun",
+    "Definition": "a home, a household, one's family"
   },
   {
     "SN": 247,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 4,
+    "Hiragana": "いつか",
+    "Kanji": "五日",
+    "Type": "Noun",
+    "Definition": "the 5th day (of the month), 5 days"
   },
   {
     "SN": 248,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いつか",
+    "Kanji": "何時か",
+    "Type": "Adverbs, Noun",
+    "Definition": "sometime, someday"
   },
   {
     "SN": 249,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いっさくじつ",
+    "Kanji": "一昨日",
+    "Type": "Noun",
+    "Definition": "the day before yesterday"
   },
   {
     "SN": 250,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いっさくねん",
+    "Kanji": "一昨年",
+    "Type": "Noun",
+    "Definition": "the year before last, two years ago"
   },
   {
     "SN": 251,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いっしゅ",
+    "Kanji": "一種",
+    "Type": "Noun",
+    "Definition": "a kind, a sort, a variety / リンゴの～: a ~ of apple"
   },
   {
     "SN": 252,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いっしゅん",
+    "Kanji": "一瞬",
+    "Type": "Noun",
+    "Definition": "an instant, a moment"
   },
   {
     "SN": 253,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いっしょう",
+    "Kanji": "一生",
+    "Type": "Noun",
+    "Definition": "a lifetime, one's whole life"
   },
   {
     "SN": 254,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 3,
+    "Hiragana": "いっしょうけんめい",
+    "Kanji": "一生懸命",
+    "Type": "Adverbs, Na-Adjectives",
+    "Definition": "very hard, with all one's might"
   },
   {
     "SN": 255,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 4,
+    "Hiragana": "いっしょに",
+    "Kanji": "一緒に",
+    "Type": "Adverbs",
+    "Definition": "together"
   },
   {
     "SN": 256,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いっせい",
+    "Kanji": "一斉",
+    "Type": "Adverbs",
+    "Definition": "all together, all in one body, all at once, simultaneously, in unison, unanimously"
   },
   {
     "SN": 257,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いっそう",
+    "Kanji": "一層",
+    "Type": "Adverbs, Noun",
+    "Definition": "still, even, all the more"
   },
   {
     "SN": 258,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いったい",
+    "Kanji": "一体",
+    "Type": "Adverbs, Noun",
+    "Definition": "whatever, on earth, in the world / ～どうしたというんだ: What the hell is that?"
   },
   {
     "SN": 259,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いったん",
+    "Kanji": "一旦",
+    "Type": "Adverbs, Noun",
+    "Definition": "once"
   },
   {
     "SN": 260,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いっち",
+    "Kanji": "一致",
+    "Type": "Noun III",
+    "Definition": "agreement, accord, harmony, coincidence, correspondence"
   },
   {
     "SN": 261,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 4,
+    "Hiragana": "いつつ",
+    "Kanji": "五つ",
+    "Type": "Noun",
+    "Definition": "five"
   },
   {
     "SN": 262,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いってい",
+    "Kanji": "一定",
+    "Type": "Noun III",
+    "Definition": "～の: fixed, definite, set, uniform, regular / ～する: fix, standardise"
   },
   {
     "SN": 263,
-    "Lvl": "",
-    "Hiragana": "",
+    "Lvl": 3,
+    "Hiragana": "いってまいります/きます",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Greetings, Others",
+    "Definition": "So long (lit I'm going out and coming back)"
   },
   {
     "SN": 264,
-    "Lvl": "",
-    "Hiragana": "",
+    "Lvl": 2,
+    "Hiragana": "いつでも",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Others",
+    "Definition": "any time/moment, always, at all times"
   },
   {
     "SN": 265,
-    "Lvl": "",
-    "Hiragana": "",
+    "Lvl": 3,
+    "Hiragana": "いってらっしゃい",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Greetings, Others",
+    "Definition": "So long (lit. Go and come back safely)"
   },
   {
     "SN": 266,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いつのまにか",
+    "Kanji": "いつの間にか",
+    "Type": "Others",
+    "Definition": "all too soon / ～暗くなった: It got dark before I knew it"
   },
   {
     "SN": 267,
-    "Lvl": "",
-    "Hiragana": "",
+    "Lvl": 3,
+    "Hiragana": "いっぱい",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Adverbs",
+    "Definition": "full, much"
   },
   {
     "SN": 268,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いっぱい",
+    "Kanji": "一杯",
+    "Type": "Adverbs, Noun",
+    "Definition": "enough, fill, a lot of"
   },
   {
     "SN": 269,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いっぱんに",
+    "Kanji": "一般に",
+    "Type": "Adverbs, Noun",
+    "Definition": "general / ～的: general, universal / ～に: generally / ～の: average, ordinary"
   },
   {
     "SN": 270,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いっぽう",
+    "Kanji": "一方",
+    "Type": "Noun, Conjunction",
+    "Definition": "one side/part, the other side/party, just goes on"
   },
   {
     "SN": 271,
-    "Lvl": "",
-    "Hiragana": "",
+    "Lvl": 2,
+    "Hiragana": "いつまでも",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Adverbs",
+    "Definition": "forever"
   },
   {
     "SN": 272,
-    "Lvl": "",
-    "Hiragana": "",
+    "Lvl": 4,
+    "Hiragana": "いつも",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Adverbs",
+    "Definition": "always"
   },
   {
     "SN": 273,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いてん",
+    "Kanji": "移転",
+    "Type": "Noun III",
+    "Definition": "a move, transfer / ～する: move / ～先: a person's new address"
   },
   {
     "SN": 274,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 3,
+    "Hiragana": "いと",
+    "Kanji": "糸",
+    "Type": "Noun",
+    "Definition": "thread"
   },
   {
     "SN": 275,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いど",
+    "Kanji": "緯度",
+    "Type": "Noun",
+    "Definition": "latitude / 北緯 (ほくい): The north latitude / 南緯 (なんい): The south latitude"
   },
   {
     "SN": 276,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いど",
+    "Kanji": "井戸",
+    "Type": "Noun",
+    "Definition": "a well"
   },
   {
     "SN": 277,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いどう",
+    "Kanji": "移動",
+    "Type": "Noun III",
+    "Definition": "move, transfer"
   },
   {
     "SN": 278,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いとこ",
+    "Kanji": "従兄弟/従姉妹",
+    "Type": "Noun",
+    "Definition": "cousin"
   },
   {
     "SN": 279,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 3,
+    "Hiragana": "いない",
+    "Kanji": "以内",
+    "Type": "Noun",
+    "Definition": "within (a distance or time)"
   },
   {
     "SN": 280,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 3,
+    "Hiragana": "いなか",
+    "Kanji": "田舎",
+    "Type": "Noun",
+    "Definition": "country side, rural area, hometown"
   },
   {
     "SN": 281,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 4,
+    "Hiragana": "いぬ",
+    "Kanji": "犬",
+    "Type": "Noun",
+    "Definition": "dog"
   },
   {
     "SN": 282,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いね",
+    "Kanji": "稲",
+    "Type": "Noun",
+    "Definition": "rice, a rice plant / ～刈り(～かり): Rice reaping"
   },
   {
     "SN": 283,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いねむり",
+    "Kanji": "居眠り",
+    "Type": "Noun",
+    "Definition": "a doze / ～する: doze, fall into a doze, nod"
   },
   {
     "SN": 284,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いのち",
+    "Kanji": "命",
+    "Type": "Noun",
+    "Definition": "life"
   },
   {
     "SN": 285,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 3,
+    "Hiragana": "いのる",
+    "Kanji": "祈る",
+    "Type": "Verb I",
+    "Definition": "pray"
   },
   {
     "SN": 286,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いばる",
+    "Kanji": "威張る",
+    "Type": "Verb I",
+    "Definition": "boast, brag, be proud, domineer"
   },
   {
     "SN": 287,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いはん",
+    "Kanji": "違反",
+    "Type": "Noun III",
+    "Definition": "violation, breach, violate (a law), breask (a promise)"
   },
   {
     "SN": 288,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いふく",
+    "Kanji": "衣服",
+    "Type": "Noun",
+    "Definition": "clothes, dress, garments, apparel, clothing"
   },
   {
     "SN": 289,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 4,
+    "Hiragana": "いま",
+    "Kanji": "今",
+    "Type": "Noun",
+    "Definition": "now"
   },
   {
     "SN": 290,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いま",
+    "Kanji": "居間",
+    "Type": "Noun",
+    "Definition": "living room"
   },
   {
     "SN": 291,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いまに",
+    "Kanji": "今に",
+    "Type": "Noun, Adverbs",
+    "Definition": "soon, before long, one of these days"
   },
   {
     "SN": 292,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いまにも",
+    "Kanji": "今にも",
+    "Type": "Adverbs",
+    "Definition": "any minute now, be about to / ～も雨が降りそうだ :It is going to rain any minute now."
   },
   {
     "SN": 293,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 4,
+    "Hiragana": "いみ",
+    "Kanji": "意味",
+    "Type": "Noun III",
+    "Definition": "meaning / ～する: mean, imply, signify, intend, infer, stand for"
   },
   {
     "SN": 294,
-    "Lvl": "",
-    "Hiragana": "",
+    "Lvl": 2,
+    "Hiragana": "イメージ",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun III",
+    "Definition": "an image, impression"
   },
   {
     "SN": 295,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いもうと",
+    "Kanji": "妹",
+    "Type": "Noun",
+    "Definition": "one's younger sister, one's little sister"
   },
   {
     "SN": 296,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 4,
+    "Hiragana": "いもうとさん",
+    "Kanji": "妹さん",
+    "Type": "Noun",
+    "Definition": "younger sister"
   },
   {
     "SN": 297,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 4,
+    "Hiragana": "いや",
+    "Kanji": "嫌",
+    "Type": "Na-Adjectives",
+    "Definition": "dislike"
   },
   {
     "SN": 298,
-    "Lvl": "",
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Lvl": 2,
+    "Hiragana": "いや",
+    "Kanji": "否",
+    "Type": "Noun, Expression",
+    "Definition": "no"
   },
   {
     "SN": 299,
+    "Lvl": 2,
+    "Hiragana": "いやがる",
+    "Kanji": "嫌がる",
+    "Type": "Verb I",
+    "Definition": "dislike, hate"
+  },
+  {
+    "SN": 300,
+    "Lvl": 2,
+    "Hiragana": "いよいよ",
+    "Kanji": "",
+    "Type": "Adverbs",
+    "Definition": "more and more, at least, crucial, really, assuredly"
+  },
+  {
+    "SN": 301,
     "Lvl": "",
     "Hiragana": "",
     "Kanji": "",
@@ -2392,7 +2408,791 @@
     "Definition": ""
   },
   {
-    "SN": 300,
+    "SN": 302,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 303,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 304,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 305,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 306,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 307,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 308,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 309,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 310,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 311,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 312,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 313,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 314,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 315,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 316,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 317,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 318,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 319,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 320,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 321,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 322,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 323,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 324,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 325,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 326,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 327,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 328,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 329,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 330,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 331,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 332,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 333,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 334,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 335,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 336,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 337,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 338,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 339,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 340,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 341,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 342,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 343,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 344,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 345,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 346,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 347,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 348,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 349,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 350,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 351,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 352,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 353,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 354,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 355,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 356,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 357,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 358,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 359,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 360,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 361,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 362,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 363,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 364,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 365,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 366,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 367,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 368,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 369,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 370,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 371,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 372,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 373,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 374,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 375,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 376,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 377,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 378,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 379,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 380,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 381,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 382,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 383,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 384,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 385,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 386,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 387,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 388,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 389,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 390,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 391,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 392,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 393,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 394,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 395,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 396,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 397,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 398,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 399,
+    "Lvl": "",
+    "Hiragana": "",
+    "Kanji": "",
+    "Type": "",
+    "Definition": ""
+  },
+  {
+    "SN": 400,
     "Lvl": "",
     "Hiragana": "",
     "Kanji": "",

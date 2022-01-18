@@ -17,6 +17,11 @@ html {
   line-height: 1.4;
 }
 
+body {
+  font-family: "Noto Sans", sans-serif;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
 /*
    * Remove text-shadow in selection highlight:
    * https://twitter.com/miketaylr/status/12228805301
@@ -259,6 +264,37 @@ textarea {
   h3 {
     page-break-after: avoid;
   }
+}
+
+#main-spinner {
+  height: 800px;
+  z-index: 10;
+  background-color: #fff;
+
+  .spinner-border {
+    top: 40%;
+    left: 45%;
+    width: 3rem;
+    height: 3rem;
+
+    @media only screen and (min-width: 800px) {
+      left: 46%;
+    }
+  }
+
+  .spinner-text {
+    top: 46%;
+    left: 40%;
+    font-size: 2rem;
+
+    @media only screen and (min-width: 800px) {
+      left: 44%;
+    }
+  }
+}
+
+#main-body {
+  z-index: 1;
 }
 
 @import "components/card.less";

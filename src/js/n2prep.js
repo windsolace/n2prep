@@ -1,16 +1,6 @@
-"use strict";
-
 import _ from "lodash";
-import "./css/main.less";
-// import "./css/normalize.css";
-// import "./js/vendor/modernizr-3.11.2.min.js";
-// import "./js/vendor/plugins.js";
-import "./js/main";
-
-import vocab from "./data/vocab.json";
-import N2PrepUtils from "./js/utils";
-
-_.templateSettings.interpolate = /{{([\s\S]+?)}}/g;
+import vocab from "../data/vocab.json";
+import N2PrepUtils from "./utils";
 
 const useMockVocab = true; //always true for now
 
@@ -65,11 +55,6 @@ const n2Prep = (function () {
       else if (mode === practiceHiragana && !result.Kanji) return;
       resultsDiv.innerHTML += templateHTML;
     });
-
-    setTimeout(() => {
-      $("#main-spinner").hide();
-      $("#main-body").removeAttr("style");
-    }, 200);
 
     // reveal the hidden contents on click of the card
     $(".flashcard").click((e) => {
@@ -184,5 +169,3 @@ const n2Prep = (function () {
     init: init,
   };
 })();
-
-n2Prep.init();
