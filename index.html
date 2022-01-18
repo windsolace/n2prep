@@ -36,16 +36,16 @@
   </head>
 
   <body>
-    <div id="main-spinner" class="container">
+    <!-- <div id="main-spinner" class="container">
       <div class="container">
         <div class="spinner-border text-primary position-fixed" role="status">
           <span class="visually-hidden">Loading...</span>
         </div>
         <p class="spinner-text text-center position-fixed">Loading...</p>
       </div>
-    </div>
+    </div> -->
 
-    <div id="main-body" style="display: none">
+    <div id="main-body">
       <nav
         class="navbar fixed-top autohide navbar-expand-lg navbar-light bg-light"
       >
@@ -69,9 +69,7 @@
                 <!-- <p>Options</p> -->
               </li>
               <li class="nav-item">
-                <label for="minRange" class="form-label rangeSlider"
-                  >Practice Mode</label
-                >
+                <label for="minRange" class="form-label">Practice Mode</label>
                 <select
                   class="form-select"
                   id="practiceMode"
@@ -84,11 +82,11 @@
                 </select>
               </li>
               <li class="nav-item">
-                <label for="minRange" class="form-label rangeSlider">Min</label>
+                <label for="minRange" class="form-label">Min</label>
                 <!-- <output>1</output> -->
                 <input
                   type="number"
-                  class="form-control rangeSlider"
+                  class="form-control"
                   id="manualMin"
                   placeholder="1"
                   value="1"
@@ -103,7 +101,7 @@
                 />
               </li>
               <li class="nav-item">
-                <label for="maxRange" class="form-label rangeSlider">Max</label>
+                <label for="maxRange" class="form-label">Max</label>
                 <input
                   type="number"
                   class="form-control"
@@ -145,7 +143,7 @@
             class="form-control me-2"
             type="search"
             id="searchFilter"
-            placeholder="Type in English or Japanese to start filtering"
+            placeholder="Filter by typing in English or Japanese"
             aria-label="Search"
           />
         </div>

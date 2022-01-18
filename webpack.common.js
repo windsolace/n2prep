@@ -1,6 +1,8 @@
 // const webpack = require("webpack");
 const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
+const MiniCssExtractPlugin = require("mini-css-extract-plugin");
+// const CssMinimizerPlugin = require("css-minimizer-webpack-plugin");
 
 module.exports = {
   output: {
@@ -11,15 +13,10 @@ module.exports = {
       {
         test: /\.less$/,
         use: [
-          {
-            loader: "style-loader", // creates style nodes from JS strings
-          },
-          {
-            loader: "css-loader", // translates CSS into CommonJS
-          },
-          {
-            loader: "less-loader", // compiles Less to CSS
-          },
+          MiniCssExtractPlugin.loader,
+          // "style-loader", // creates style nodes from JS strings
+          "css-loader", // translates CSS into CommonJS
+          "less-loader", // compiles Less to CSS
         ],
       },
       {
@@ -49,6 +46,9 @@ module.exports = {
     new HtmlWebpackPlugin({
       title: "N2 Prep",
       template: "index.html",
+    }),
+    new MiniCssExtractPlugin({
+      filename: "./css/[name].css",
     }),
   ],
   output: {
