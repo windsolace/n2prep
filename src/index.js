@@ -49,9 +49,13 @@ const n2Prep = (function () {
    * @param {*} mode e.g. #resultsTemplate-hiragana
    */
   const generateCards = (data, mode) => {
+    console.debug(data);
+    let $resultsDiv = $("#results");
+    let noResultsTemplate = $("#noResultsTemplate").html();
+
+    // show no results template if no data
     if (data.length == 0) {
-      let noResultsTemplate = $("#noResultsTemplate").html();
-      $("#results").append(noResultsTemplate);
+      $resultsDiv.append(noResultsTemplate);
       return;
     }
     let resultsTemplate = $(mode).html();
@@ -71,6 +75,9 @@ const n2Prep = (function () {
       else if (mode === practiceHiragana && !result.Kanji) return;
       resultsDiv.innerHTML += templateHTML;
     });
+
+    // show no results if no data after filter
+    if (!$resultsDiv.html()) $resultsDiv.append(noResultsTemplate);
 
     // reveal the hidden contents on click of the card
     $(".flashcard").click((e) => {
