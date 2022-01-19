@@ -48,6 +48,7 @@ const n2Prep = (function () {
    * @param {*} mode e.g. #resultsTemplate-hiragana
    */
   const generateCards = (data, mode) => {
+    if (data.length == 0) return;
     let resultsTemplate = $(mode).html();
     let resultsDiv = document.getElementById("results");
 
@@ -66,10 +67,10 @@ const n2Prep = (function () {
       resultsDiv.innerHTML += templateHTML;
     });
 
-    setTimeout(() => {
-      $("#main-spinner").hide();
-      $("#main-body").removeAttr("style");
-    }, 200);
+    // setTimeout(() => {
+    //   $("#main-spinner").hide();
+    //   $("#main-body").removeAttr("style");
+    // }, 200);
 
     // reveal the hidden contents on click of the card
     $(".flashcard").click((e) => {
@@ -104,37 +105,34 @@ const n2Prep = (function () {
     if (!currentMode) currentMode = practiceDefault;
     getData(useMockVocab, resultsTemplateStr + "-" + currentMode);
 
-    //init practiceMode ddl event, resets data to full data set
-    $("#practiceMode").change((e) => {
-      let mode = e.currentTarget.value;
-      N2PrepUtils.createCookie("mode", mode, 7);
-      $(resultsDiv).empty();
-      generateCards(vocab, resultsTemplateStr + "-" + mode);
-      currentMode = mode;
-      $("#searchFilter").val("");
-      console.info("Practice Mode changed to " + mode);
-    });
-
     //search bar filter, filters current visible data
     $("#searchFilter").on("input", (e) => {
       let searchTerm = e.currentTarget.value;
       const engTest = /^[A-Za-z]*$/;
       let isEng = engTest.test(searchTerm);
-      let filteredArr = vocab.filter((item) => {
-        //if searchterm is english, match by definition only
-        if (isEng) {
-          console.debug("match by definition");
-          return item.Definition.indexOf(searchTerm) > -1;
-        } else {
-          //if search term is not english match by hiragana or kanji
-          console.debug("match by jap");
+      let filteredArr = [];
 
-          return (
-            item.Hiragana.indexOf(searchTerm) > -1 ||
-            item.Kanji.indexOf(searchTerm) > -1
-          );
-        }
-      });
+      // optimize by only triggering filter if value is not empty and length > 3 for non-eng search terms
+      if (isEng && searchTerm.length < 4 && searchTerm) {
+        return;
+      } else if (searchTerm.length == 0) {
+        //don't return results if nothing entered else need render all the cards
+        filteredArr = [];
+      } else {
+        filteredArr = vocab.filter((item) => {
+          //if searchterm is english, match by definition only
+          if (isEng) {
+            return item.Definition.indexOf(searchTerm) > -1;
+          } else {
+            //if search term is not english match by hiragana or kanji
+            return (
+              item.Hiragana.indexOf(searchTerm) > -1 ||
+              item.Kanji.indexOf(searchTerm) > -1
+            );
+          }
+        });
+      }
+
       // N2PrepUtils.createCookie("mode", mode, 7);
       $(resultsDiv).empty();
       generateCards(filteredArr, resultsTemplateStr + "-" + currentMode);
@@ -143,40 +141,58 @@ const n2Prep = (function () {
       );
     });
 
-    //range bar events
-    $("#manualMin").change((e) => {
-      $("#minRange").val(e.currentTarget.value);
-      $("#minRange").trigger("change");
+    // filter drawer elements
+    const $minRangeSlider = $("#minRange");
+    const $maxRangeSlider = $("#maxRange");
+    const $minRangeField = $("#manualMin");
+    const $maxRangeField = $("#manualMax");
+    const $practiceModeDdl = $("#practiceMode");
+
+    $practiceModeDdl.val(currentMode);
+
+    //init practiceMode ddl event, resets data to full data set
+    $practiceModeDdl.change((e) => {
+      let mode = e.currentTarget.value;
+      N2PrepUtils.createCookie("mode", mode, 7);
+      currentMode = mode;
+      $("#searchFilter").val("");
+      console.info("Practice Mode changed to " + mode);
     });
-    $("#minRange").change((e) => {
-      const $maxRange = $("#maxRange");
+
+    // filter drawer button event
+    $("#startFilter").click((e) => {
+      let minRangeVal = $minRangeField.val();
+      let maxRangeVal = $maxRangeField.val();
+
+      //reset and generate data
+      let filteredArr = vocab.filter((item) => {
+        return item.SN >= minRangeVal && item.SN <= maxRangeVal;
+      });
+      $(resultsDiv).empty();
+      generateCards(filteredArr, resultsTemplateStr + "-" + currentMode);
+      $(".navbar-toggler").trigger("click");
+    });
+
+    //range bar events
+    $minRangeField.change((e) => {
+      $minRangeSlider.val(e.currentTarget.value);
+      $minRangeSlider.trigger("change");
+    });
+    $minRangeSlider.change((e) => {
+      const $maxRange = $maxRangeSlider;
       e.currentTarget.previousElementSibling.value = e.currentTarget.value;
       //min value changed, set maxRange's min value
       $maxRange.attr(NAME_MINRANGE, e.currentTarget.value);
-
-      //reset and generate data
-      let filteredArr = vocab.filter((item) => {
-        return item.SN >= e.currentTarget.value && item.SN <= $maxRange.val();
-      });
-      $(resultsDiv).empty();
-      generateCards(filteredArr, resultsTemplateStr + "-" + currentMode);
     });
-    $("#manualMax").change((e) => {
-      $("#maxRange").val(e.currentTarget.value);
-      $("#maxRange").trigger("change");
+    $maxRangeField.change((e) => {
+      $maxRangeSlider.val(e.currentTarget.value);
+      $maxRangeSlider.trigger("change");
     });
-    $("#maxRange").change((e) => {
-      const $minRange = $("#minRange");
+    $maxRangeSlider.change((e) => {
+      const $minRange = $minRangeSlider;
       e.currentTarget.previousElementSibling.value = e.currentTarget.value;
       //max value changed, set minRange's max value
       $minRange.attr(NAME_MAXRANGE, e.currentTarget.value);
-
-      //reset and generate data
-      let filteredArr = vocab.filter((item) => {
-        return item.SN >= $minRange.val() && item.SN <= e.currentTarget.value;
-      });
-      $(resultsDiv).empty();
-      generateCards(filteredArr, resultsTemplateStr + "-" + currentMode);
     });
   };
 
