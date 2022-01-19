@@ -6,6 +6,7 @@ import "./css/main.less";
 // import "./js/vendor/modernizr-3.11.2.min.js";
 // import "./js/vendor/plugins.js";
 import "./js/main";
+import "./img/You.gif";
 
 import vocab from "./data/vocab.json";
 import N2PrepUtils from "./js/utils";
@@ -48,7 +49,11 @@ const n2Prep = (function () {
    * @param {*} mode e.g. #resultsTemplate-hiragana
    */
   const generateCards = (data, mode) => {
-    if (data.length == 0) return;
+    if (data.length == 0) {
+      let noResultsTemplate = $("#noResultsTemplate").html();
+      $("#results").append(noResultsTemplate);
+      return;
+    }
     let resultsTemplate = $(mode).html();
     let resultsDiv = document.getElementById("results");
 
@@ -66,11 +71,6 @@ const n2Prep = (function () {
       else if (mode === practiceHiragana && !result.Kanji) return;
       resultsDiv.innerHTML += templateHTML;
     });
-
-    // setTimeout(() => {
-    //   $("#main-spinner").hide();
-    //   $("#main-body").removeAttr("style");
-    // }, 200);
 
     // reveal the hidden contents on click of the card
     $(".flashcard").click((e) => {
@@ -99,15 +99,25 @@ const n2Prep = (function () {
     if (max && max > 0) $(selector).attr(NAME_MAXRANGE, max);
   };
 
+  /**
+   * Inserts spinner into results div
+   */
+  const toggleResultsSpinner = () => {
+    let spinnerTemplate = $("#toggleTemplate").html();
+    let $resultsDiv = $("#results");
+    $resultsDiv.append(spinnerTemplate);
+  };
+
   const init = () => {
     //check if has mode cookie and use that mode
     // let currentMode = N2PrepUtils.getCookie("mode");
     if (!currentMode) currentMode = practiceDefault;
+    toggleResultsSpinner();
     getData(useMockVocab, resultsTemplateStr + "-" + currentMode);
 
     //search bar filter, filters current visible data
     $("#searchFilter").on("input", (e) => {
-      let searchTerm = e.currentTarget.value;
+      let searchTerm = e.currentTarget.value.trim().toLowerCase();
       const engTest = /^[A-Za-z]*$/;
       let isEng = engTest.test(searchTerm);
       let filteredArr = [];
@@ -168,9 +178,10 @@ const n2Prep = (function () {
       let filteredArr = vocab.filter((item) => {
         return item.SN >= minRangeVal && item.SN <= maxRangeVal;
       });
-      $(resultsDiv).empty();
-      generateCards(filteredArr, resultsTemplateStr + "-" + currentMode);
       $(".navbar-toggler").trigger("click");
+      $(resultsDiv).empty();
+      toggleResultsSpinner();
+      generateCards(filteredArr, resultsTemplateStr + "-" + currentMode);
     });
 
     //range bar events
