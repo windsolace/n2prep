@@ -23,6 +23,7 @@ const n2Prep = (function () {
   const practiceDefault = "eng";
   let currentMode = N2PrepUtils.getCookie("mode");
   let currentData = vocab;
+  let isShowingNoResults = true; //use to mark if the no results template is showing
 
   const resultsDiv = "#results";
   const NAME_MINRANGE = "min";
@@ -55,15 +56,21 @@ const n2Prep = (function () {
 
     // show no results template if no data
     if (data.length == 0) {
-      $resultsDiv.append(noResultsTemplate);
+      if (!isShowingNoResults) {
+        isShowingNoResults = true;
+        $resultsDiv.empty();
+        $resultsDiv.append(noResultsTemplate);
+      }
       return;
     }
+
     let resultsTemplate = $(mode).html();
     let resultsDiv = document.getElementById("results");
 
     let cardTemplateFn = _.template(resultsTemplate);
     let resultList = data;
 
+    let outputHtml = "";
     _.forEach(resultList, function (result) {
       let templateHTML = cardTemplateFn(result);
 
@@ -73,11 +80,18 @@ const n2Prep = (function () {
       else if (mode === practiceKanji && !result.Kanji) return;
       //skip items with no kanji if mode is hiragana
       else if (mode === practiceHiragana && !result.Kanji) return;
-      resultsDiv.innerHTML += templateHTML;
+      outputHtml += templateHTML;
     });
-
-    // show no results if no data after filter
-    if (!$resultsDiv.html()) $resultsDiv.append(noResultsTemplate);
+    if (outputHtml) {
+      $(resultsDiv).empty();
+      resultsDiv.innerHTML += outputHtml;
+      isShowingNoResults = false;
+    } else {
+      // scenario where there are results but not applicable to be shown (e.g. no kanji)
+      if (!isShowingNoResults) $resultsDiv.append(noResultsTemplate);
+      isShowingNoResults = true;
+      return;
+    }
 
     // reveal the hidden contents on click of the card
     $(".flashcard").click((e) => {
@@ -151,7 +165,6 @@ const n2Prep = (function () {
       }
 
       // N2PrepUtils.createCookie("mode", mode, 7);
-      $(resultsDiv).empty();
       generateCards(filteredArr, resultsTemplateStr + "-" + currentMode);
       console.debug(
         "Filtering by word: " + searchTerm + " | currentMode: " + currentMode
