@@ -103,8 +103,8 @@ const n2Prep = (function () {
         $hiddenDivs.removeClass("hidden");
         // analytics track flashcard click event "flashcard-click-<index>_<hiragana>"
         dataLayer.push({
-          event:
-            "flashcard-click-" + targetCardIndex + "_" + targetCardHiragana,
+          event: "flashcardClick",
+          flashcardId: targetCardIndex + "_" + targetCardHiragana,
         });
       } else {
         $(e.currentTarget).removeClass("flashcard--open");
