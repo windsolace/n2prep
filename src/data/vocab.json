@@ -2669,7 +2669,7 @@
     "Hiragana": "うえる",
     "Kanji": "植える",
     "Type": "Verb II",
-    "Definition": ""
+    "Definition": "plant"
   },
   {
     "SN": 335,
@@ -2677,526 +2677,1326 @@
     "Hiragana": "うえる",
     "Kanji": "飢える",
     "Type": "Verb II",
-    "Definition": ""
+    "Definition": "starve, be famished, be hungry"
   },
   {
     "SN": 336,
     "Lvl": 2,
     "Hiragana": "うお",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Kanji": "魚",
+    "Type": "Noun",
+    "Definition": "a fish / ～市場: fish market / ～座"
   },
   {
     "SN": 337,
     "Lvl": 2,
     "Hiragana": "うがい",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun, Verb III",
+    "Definition": "gargling / ～する: gargle, rinse out one's mouth"
   },
   {
     "SN": 338,
     "Lvl": 3,
     "Hiragana": "うかがう",
     "Kanji": "伺う",
-    "Type": "",
-    "Definition": ""
+    "Type": "Verb I",
+    "Definition": "ask, hear, visit (used when a speaker shows modesty)"
   },
   {
     "SN": 339,
     "Lvl": 2,
     "Hiragana": "うかぶ",
     "Kanji": "浮かぶ",
-    "Type": "",
-    "Definition": ""
+    "Type": "Verb I",
+    "Definition": "float, surface, appear, flash"
   },
   {
     "SN": 340,
     "Lvl": 2,
     "Hiragana": "うかべる",
     "Kanji": "浮かべる",
-    "Type": "",
-    "Definition": ""
+    "Type": "Verb II",
+    "Definition": "float, launch, visualises / 涙を～て: in tears"
   },
   {
     "SN": 341,
     "Lvl": 2,
     "Hiragana": "うく",
     "Kanji": "浮く",
-    "Type": "",
-    "Definition": ""
+    "Type": "Verb I",
+    "Definition": "float, suspend, lose touch with, save (money)"
   },
   {
     "SN": 342,
     "Lvl": 2,
     "Hiragana": "うけたまわる",
     "Kanji": "承る",
-    "Type": "",
-    "Definition": ""
+    "Type": "Verb I",
+    "Definition": "hear, comply with, 確かに～ました: Certainly, very good, sir/ma'am"
   },
   {
     "SN": 343,
     "Lvl": 3,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うけつけ",
+    "Kanji": "受付",
+    "Type": "Noun",
+    "Definition": "reception, receiptionist(s)"
   },
   {
     "SN": 344,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うけとり",
+    "Kanji": "受け取り",
+    "Type": "Noun",
+    "Definition": "accept, a receipt / ～人: a recipient"
   },
   {
     "SN": 345,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うけとる",
+    "Kanji": "受け取る",
+    "Type": "Verb I",
+    "Definition": "receive, get, accept, take interpret, view, think"
   },
   {
     "SN": 346,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うけもつ",
+    "Kanji": "受け持つ",
+    "Type": "Verb I",
+    "Definition": "be in charge, take charge, handle, manage, cover"
   },
   {
     "SN": 347,
     "Lvl": 3,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うける",
+    "Kanji": "受ける",
+    "Type": "Verb II",
+    "Definition": "catch (a ball); receive (education, kindness, permission)"
   },
   {
     "SN": 348,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うごかす",
+    "Kanji": "動かす",
+    "Type": "Verb I",
+    "Definition": "move, shift, budge, transfer, put into action, operate, run, change, affect, manage"
   },
   {
     "SN": 349,
     "Lvl": 3,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うごく",
+    "Kanji": "動く",
+    "Type": "Verb I",
+    "Definition": "move"
   },
   {
     "SN": 350,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うさぎ",
+    "Kanji": "兎",
+    "Type": "Noun",
+    "Definition": "a rabbit, a hare"
   },
   {
     "SN": 351,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うし",
+    "Kanji": "牛",
+    "Type": "Noun",
+    "Definition": "a cow"
   },
   {
     "SN": 352,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うしなう",
+    "Kanji": "失う",
+    "Type": "Verb I",
+    "Definition": "lose, miss"
   },
   {
     "SN": 353,
     "Lvl": 4,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うしろ",
+    "Kanji": "後ろ",
+    "Type": "Noun",
+    "Definition": "back, behind"
   },
   {
     "SN": 354,
     "Lvl": 4,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うすい",
+    "Kanji": "薄い",
+    "Type": "I-Adjectives",
+    "Definition": "thin"
   },
   {
     "SN": 355,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うすぐらい",
+    "Kanji": "薄暗い",
+    "Type": "I-Adjectives",
+    "Definition": "dim, dusky"
   },
   {
     "SN": 356,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うすめる",
+    "Kanji": "薄める",
+    "Type": "Verb II",
+    "Definition": "thin, dilute, weaken / ～たコーヒー: weakened coffee"
   },
   {
     "SN": 357,
     "Lvl": 3,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うそ",
+    "Kanji": "嘘",
+    "Type": "Noun",
+    "Definition": "lie, unture"
   },
   {
     "SN": 358,
     "Lvl": 4,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うた",
+    "Kanji": "歌",
+    "Type": "Noun",
+    "Definition": "song(s)"
   },
   {
     "SN": 359,
     "Lvl": 4,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うたう",
+    "Kanji": "歌う",
+    "Type": "Verb I",
+    "Definition": "sing (a song)"
   },
   {
     "SN": 360,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うたがう",
+    "Kanji": "疑う",
+    "Type": "Verb I",
+    "Definition": "doubt, wonder, suspect"
   },
   {
     "SN": 361,
     "Lvl": 4,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うち",
+    "Kanji": "家",
+    "Type": "Noun",
+    "Definition": "home"
   },
   {
     "SN": 362,
     "Lvl": 3,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うち",
+    "Kanji": "内",
+    "Type": "Noun",
+    "Definition": "between, among"
   },
   {
     "SN": 363,
     "Lvl": 2,
-    "Hiragana": "",
+    "Hiragana": "うち",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "in, of / 君たち二人の～ー人: one (or the other) of you"
   },
   {
     "SN": 364,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うちあわせ",
+    "Kanji": "打合せ",
+    "Type": "Noun",
+    "Definition": "arrangements / ～をする: make arrangements"
   },
   {
     "SN": 365,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うちあわせる",
+    "Kanji": "打ち合わせる",
+    "Type": "Verb II",
+    "Definition": "knock together, arrange/discuss beforehand"
   },
   {
     "SN": 366,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うちけす",
+    "Kanji": "打ち消す",
+    "Type": "Verb I",
+    "Definition": "deny, drown"
   },
   {
     "SN": 367,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うちゅう",
+    "Kanji": "宇宙",
+    "Type": "Noun",
+    "Definition": "the universe, the cosmos, space, ～飛行士(ひこうし）: Astronauts / ～人: Alien"
   },
   {
     "SN": 368,
     "Lvl": 3,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うつ",
+    "Kanji": "打つ",
+    "Type": "Verb I",
+    "Definition": "type, hit, beat"
   },
   {
     "SN": 369,
     "Lvl": 2,
-    "Hiragana": "",
+    "Hiragana": "うっかり",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Adverb, ?",
+    "Definition": "carelessly, absentmindedly, by mistake"
   },
   {
     "SN": 370,
     "Lvl": 3,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うつくしい",
+    "Kanji": "美しい",
+    "Type": "I-Adjectives",
+    "Definition": "beautiful, pretty, lovely"
   },
   {
     "SN": 371,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うつす",
+    "Kanji": "写す/映す",
+    "Type": "Verb I",
+    "Definition": "1. copy, make a photocopy, reproduce / 2. reflect project"
   },
   {
     "SN": 372,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うつす",
+    "Kanji": "移す",
+    "Type": "Verb I",
+    "Definition": "move, transfer"
   },
   {
     "SN": 373,
     "Lvl": 3,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うったえる",
+    "Kanji": "訴える",
+    "Type": "Verb II",
+    "Definition": "sue, bring an action, complain, file/lodge a complaint, resort to, touch, move"
   },
   {
     "SN": 374,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うつる",
+    "Kanji": "移る",
+    "Type": "Verb I",
+    "Definition": "move (from, to) change"
   },
   {
     "SN": 375,
     "Lvl": 3,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うつる",
+    "Kanji": "写る/映る",
+    "Type": "Verb I",
+    "Definition": "1. come out / 2. be reflected"
   },
   {
     "SN": 376,
     "Lvl": 3,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うで",
+    "Kanji": "腕",
+    "Type": "Noun",
+    "Definition": "arm(s)"
   },
   {
     "SN": 377,
     "Lvl": 2,
-    "Hiragana": "",
+    "Hiragana": "うどん",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Noun",
+    "Definition": "udon, thick white noodles / ～粉: udon flour"
   },
   {
     "SN": 378,
     "Lvl": 2,
-    "Hiragana": "",
+    "Hiragana": "うなずく",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Verb I",
+    "Definition": "nod"
   },
   {
     "SN": 379,
     "Lvl": 2,
-    "Hiragana": "",
+    "Hiragana": "うなる",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "Verb I",
+    "Definition": "growl, groan, moan"
   },
   {
     "SN": 380,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うばう",
+    "Kanji": "奪う",
+    "Type": "Verb I",
+    "Definition": "take (a thing) by force, rob, deprive, plunder"
   },
   {
     "SN": 381,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うま",
+    "Kanji": "馬",
+    "Type": "Noun",
+    "Definition": "a horse"
   },
   {
     "SN": 382,
     "Lvl": 3,
-    "Hiragana": "",
+    "Hiragana": "うまい",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "I-Adjectives",
+    "Definition": "delicious, tasty, good at, bright, good witty"
   },
   {
     "SN": 383,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うまれ",
+    "Kanji": "生まれ",
+    "Type": "Noun",
+    "Definition": "birth, one's birthplace / 5月～です: I was born in May."
   },
   {
     "SN": 384,
     "Lvl": 4,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うまれる",
+    "Kanji": "生まれる",
+    "Type": "Verb II",
+    "Definition": "be born"
   },
   {
     "SN": 385,
     "Lvl": 4,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うみ",
+    "Kanji": "海",
+    "Type": "Noun",
+    "Definition": "the sea, the ocean"
   },
   {
     "SN": 386,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うむ",
+    "Kanji": "有無",
+    "Type": "Noun",
+    "Definition": "経験の～: have experience or not"
   },
   {
     "SN": 387,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うめ",
+    "Kanji": "梅",
+    "Type": "Noun",
+    "Definition": "Japanese apricot, plum"
   },
   {
     "SN": 388,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うめる",
+    "Kanji": "埋める",
+    "Type": "Verb II",
+    "Definition": "cove, bury, immerse, sink / bridge, fill in / make up for / add some cold water"
   },
   {
     "SN": 389,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うやまう",
+    "Kanji": "敬う",
+    "Type": "Verb I",
+    "Definition": "respect, esteem, look up to"
   },
   {
     "SN": 390,
     "Lvl": 3,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うら",
+    "Kanji": "裏",
+    "Type": "Noun",
+    "Definition": "reverse side, back (of the building/page)"
   },
   {
     "SN": 391,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うらがえす",
+    "Kanji": "裏返す",
+    "Type": "Verb I",
+    "Definition": "turn over, reverse / ～して考えてみれば: how about considering the situation from another perspective."
   },
   {
     "SN": 392,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うらぎる",
+    "Kanji": "裏切る",
+    "Type": "Verb I",
+    "Definition": "betray, be unfaithful, disappoint, fail"
   },
   {
     "SN": 393,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うらぐち",
+    "Kanji": "裏口",
+    "Type": "Noun",
+    "Definition": "the back door / ～営業: illegal business"
   },
   {
     "SN": 394,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うらなう",
+    "Kanji": "占う",
+    "Type": "Verb I",
+    "Definition": "tell fortunes, do horoscopes, divine, cast, augur"
   },
   {
     "SN": 395,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うらみ",
+    "Kanji": "恨み",
+    "Type": "Noun",
+    "Definition": "a grudge, ill, will, hatred"
   },
   {
     "SN": 396,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うらむ",
+    "Kanji": "恨む",
+    "Type": "Verb I",
+    "Definition": "have/hold/bear a grudge, blame, resent"
   },
   {
     "SN": 397,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うらやましい",
+    "Kanji": "羨ましい",
+    "Type": "I-Adjectives",
+    "Definition": "envy, enviable, be envious of"
   },
   {
     "SN": 398,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うらやむ",
+    "Kanji": "羨む",
+    "Type": "Verb I",
+    "Definition": "envy, be envious"
   },
   {
     "SN": 399,
     "Lvl": 2,
-    "Hiragana": "",
-    "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Hiragana": "うりあげ",
+    "Kanji": "売上",
+    "Type": "Noun",
+    "Definition": "sales / ～金: proceeds, taking, earnings"
   },
   {
     "SN": 400,
     "Lvl": 2,
-    "Hiragana": "",
+    "Hiragana": "うりきれ",
+    "Kanji": "売り切れ",
+    "Type": "Noun",
+    "Definition": "sold, sellout, out of stock"
+  },
+  {
+    "SN": 401,
+    "Lvl": 2,
+    "Hiragana": "うりきれる",
+    "Kanji": "売り切れる",
+    "Type": "Verb II",
+    "Definition": "be sold out, be out of stock"
+  },
+  {
+    "SN": 402,
+    "Lvl": 3,
+    "Hiragana": "うリば",
+    "Kanji": "売り場",
+    "Type": "Noun",
+    "Definition": "counter (in store), booth"
+  },
+  {
+    "SN": 403,
+    "Lvl": 4,
+    "Hiragana": "うる",
+    "Kanji": "売る",
+    "Type": "Verb I",
+    "Definition": "Sell"
+  },
+  {
+    "SN": 404,
+    "Lvl": 4,
+    "Hiragana": "うるさい",
     "Kanji": "",
-    "Type": "",
-    "Definition": ""
+    "Type": "I-Adjectives",
+    "Definition": "noisy, annoyed"
+  },
+  {
+    "SN": 405,
+    "Lvl": 3,
+    "Hiragana": "うれしい",
+    "Kanji": "嬉しい",
+    "Type": "I-Adjectives",
+    "Definition": "Glad, happy"
+  },
+  {
+    "SN": 406,
+    "Lvl": 2,
+    "Hiragana": "うれゆき",
+    "Kanji": "売れ行き",
+    "Type": "Noun",
+    "Definition": "Sales"
+  },
+  {
+    "SN": 407,
+    "Lvl": 2,
+    "Hiragana": "うれる",
+    "Kanji": "売れる",
+    "Type": "Verb II",
+    "Definition": "sell, be sold, realize,/ よく売れる品 a good seller, / famous, well known, popular"
+  },
+  {
+    "SN": 408,
+    "Lvl": 2,
+    "Hiragana": "うろうろ",
+    "Kanji": "",
+    "Type": "?",
+    "Definition": "Hang around,/ 変な男が公園をうろうろしている A strange man is hanging around the garden"
+  },
+  {
+    "SN": 409,
+    "Lvl": 4,
+    "Hiragana": "うわぎ",
+    "Kanji": "上着",
+    "Type": "Noun",
+    "Definition": "coat, jacket"
+  },
+  {
+    "SN": 410,
+    "Lvl": 2,
+    "Hiragana": "うわさ",
+    "Kanji": "(噂）",
+    "Type": "Noun",
+    "Definition": "Gossip, rumour"
+  },
+  {
+    "SN": 411,
+    "Lvl": 2,
+    "Hiragana": "うん",
+    "Kanji": "運",
+    "Type": "Noun",
+    "Definition": "Luck, fortune, fate,/ 運よく fortunately, luckily"
+  },
+  {
+    "SN": 412,
+    "Lvl": 2,
+    "Hiragana": "うん",
+    "Kanji": "",
+    "Type": "exclamation?",
+    "Definition": "yes, yeah, ah, I got it!"
+  },
+  {
+    "SN": 413,
+    "Lvl": 2,
+    "Hiragana": "うんが",
+    "Kanji": "運河",
+    "Type": "Noun",
+    "Definition": "canal"
+  },
+  {
+    "SN": 414,
+    "Lvl": 3,
+    "Hiragana": "うんてんしゅ",
+    "Kanji": "運転手",
+    "Type": "Noun",
+    "Definition": "Driver"
+  },
+  {
+    "SN": 415,
+    "Lvl": 3,
+    "Hiragana": "うんてん（する)",
+    "Kanji": "運転（する",
+    "Type": "Noun III",
+    "Definition": "drive"
+  },
+  {
+    "SN": 416,
+    "Lvl": 2,
+    "Hiragana": "うんと",
+    "Kanji": "",
+    "Type": "?",
+    "Definition": "A lot, much, greatly, a great deal,/ 彼は僕よりうんと利口だ He is far cleverer than I am"
+  },
+  {
+    "SN": 417,
+    "Lvl": 3,
+    "Hiragana": "うんどう（する）",
+    "Kanji": "運動（する）",
+    "Type": "Noun III",
+    "Definition": "excerise"
+  },
+  {
+    "SN": 418,
+    "Lvl": 4,
+    "Hiragana": "え",
+    "Kanji": "絵",
+    "Type": "Noun",
+    "Definition": "picture"
+  },
+  {
+    "SN": 419,
+    "Lvl": 2,
+    "Hiragana": "えいえん",
+    "Kanji": "永遠",
+    "Type": "Noun",
+    "Definition": "eternity, permanence, immortality, eternal, everlasting, permanent"
+  },
+  {
+    "SN": 420,
+    "Lvl": 4,
+    "Hiragana": "えいが",
+    "Kanji": "映画",
+    "Type": "Noun",
+    "Definition": "Movie"
+  },
+  {
+    "SN": 421,
+    "Lvl": 4,
+    "Hiragana": "えいがかん",
+    "Kanji": "映画館",
+    "Type": "Noun",
+    "Definition": "Movie theater"
+  },
+  {
+    "SN": 422,
+    "Lvl": 2,
+    "Hiragana": "えいきゅう",
+    "Kanji": "永久",
+    "Type": "Noun",
+    "Definition": "eternity, pemanence,/永久に forever, eternally, permanently"
+  },
+  {
+    "SN": 423,
+    "Lvl": 2,
+    "Hiragana": "えいきょう",
+    "Kanji": "影響",
+    "Type": "Noun III",
+    "Definition": "influence, effect"
+  },
+  {
+    "SN": 424,
+    "Lvl": 2,
+    "Hiragana": "えいぎょう",
+    "Kanji": "営業",
+    "Type": "Noun III",
+    "Definition": "business, trade, o peration, do business, be open"
+  },
+  {
+    "SN": 425,
+    "Lvl": 4,
+    "Hiragana": "えいご",
+    "Kanji": "英語",
+    "Type": "Noun",
+    "Definition": "English"
+  },
+  {
+    "SN": 426,
+    "Lvl": 2,
+    "Hiragana": "えいせい",
+    "Kanji": "衛生",
+    "Type": "Noun",
+    "Definition": "hygiene, sanitation, health,/衛生的な hygienic, sanitary"
+  },
+  {
+    "SN": 427,
+    "Lvl": 2,
+    "Hiragana": "えいぶん",
+    "Kanji": "英文",
+    "Type": "Noun",
+    "Definition": "English, an English sentence, /英文の手紙, a letter written in English"
+  },
+  {
+    "SN": 428,
+    "Lvl": 2,
+    "Hiragana": "えいよう",
+    "Kanji": "栄養",
+    "Type": "Noun",
+    "Definition": "nutrition, nourishment, /栄養上の nutritional, trophic"
+  },
+  {
+    "SN": 429,
+    "Lvl": 2,
+    "Hiragana": "えいわ",
+    "Kanji": "英和",
+    "Type": "Noun",
+    "Definition": "英和辞典, English-Japanese dictionary"
+  },
+  {
+    "SN": 430,
+    "Lvl": 2,
+    "Hiragana": "ええと",
+    "Kanji": "",
+    "Type": "exclamation?",
+    "Definition": "let me see, well, uh , er"
+  },
+  {
+    "SN": 431,
+    "Lvl": 2,
+    "Hiragana": "えがお",
+    "Kanji": "笑顔",
+    "Type": "Noun",
+    "Definition": "a smiling face, a smile"
+  },
+  {
+    "SN": 432,
+    "Lvl": 2,
+    "Hiragana": "えがく",
+    "Kanji": "描く",
+    "Type": "Verb",
+    "Definition": "draw, paint, represent, trace, outline, figure, describe, depict, think, i mage"
+  },
+  {
+    "SN": 433,
+    "Lvl": 4,
+    "Hiragana": "えき",
+    "Kanji": "駅",
+    "Type": "Noun",
+    "Definition": "station"
+  },
+  {
+    "SN": 434,
+    "Lvl": 2,
+    "Hiragana": "えきたい",
+    "Kanji": "液体",
+    "Type": "Noun",
+    "Definition": "a liquid, a fluid"
+  },
+  {
+    "SN": 435,
+    "Lvl": 2,
+    "Hiragana": "えさ",
+    "Kanji": "餌",
+    "Type": "Noun",
+    "Definition": "bait, food, feed, an enticement, a decoy, a lure"
+  },
+  {
+    "SN": 436,
+    "Lvl": 3,
+    "Hiragana": "エスカレーター",
+    "Kanji": "",
+    "Type": "Noun",
+    "Definition": "escalator"
+  },
+  {
+    "SN": 437,
+    "Lvl": 3,
+    "Hiragana": "えだ",
+    "Kanji": "枝",
+    "Type": "Noun",
+    "Definition": "branch"
+  },
+  {
+    "SN": 438,
+    "Lvl": 2,
+    "Hiragana": "エチケット",
+    "Kanji": "",
+    "Type": "Noun",
+    "Definition": "etiquette"
+  },
+  {
+    "SN": 439,
+    "Lvl": 2,
+    "Hiragana": "えっ",
+    "Kanji": "",
+    "Type": "exclamation?",
+    "Definition": "Huh?"
+  },
+  {
+    "SN": 440,
+    "Lvl": 2,
+    "Hiragana": "エネルギー",
+    "Kanji": "",
+    "Type": "Noun",
+    "Definition": "energy"
+  },
+  {
+    "SN": 441,
+    "Lvl": 2,
+    "Hiragana": "えのぐ",
+    "Kanji": "絵具",
+    "Type": "Noun",
+    "Definition": "paints, colors, colours, pigment, water/oil colors, coloring"
+  },
+  {
+    "SN": 442,
+    "Lvl": 2,
+    "Hiragana": "エプロン",
+    "Kanji": "",
+    "Type": "Noun",
+    "Definition": "an apron"
+  },
+  {
+    "SN": 443,
+    "Lvl": 2,
+    "Hiragana": "えらい",
+    "Kanji": "偉い",
+    "Type": "I-Adjectives",
+    "Definition": "great, admirable, serious, awful, terrible, /偉い目にあう have a hard time"
+  },
+  {
+    "SN": 444,
+    "Lvl": 3,
+    "Hiragana": "えらぶ",
+    "Kanji": "選ぶ",
+    "Type": "Verb I",
+    "Definition": "choose"
+  },
+  {
+    "SN": 445,
+    "Lvl": 2,
+    "Hiragana": "える/うる",
+    "Kanji": "得る",
+    "Type": "Verb II",
+    "Definition": "get, acquire, gain, attain, obtain, procure, win, secure"
+  },
+  {
+    "SN": 446,
+    "Lvl": 4,
+    "Hiragana": "エレベーター",
+    "Kanji": "",
+    "Type": "Noun",
+    "Definition": "elevator"
+  },
+  {
+    "SN": 447,
+    "Lvl": 4,
+    "Hiragana": "～えん",
+    "Kanji": "～円",
+    "Type": "Numeral",
+    "Definition": "Japanese Yen"
+  },
+  {
+    "SN": 448,
+    "Lvl": 2,
+    "Hiragana": "～えん",
+    "Kanji": "～園",
+    "Type": "Noun",
+    "Definition": "garden, /動物園 zoo, /植物園 botanical garden, /公園 park"
+  },
+  {
+    "SN": 449,
+    "Lvl": 2,
+    "Hiragana": "えん",
+    "Kanji": "円",
+    "Type": "Noun",
+    "Definition": "yen, value"
+  },
+  {
+    "SN": 450,
+    "Lvl": 2,
+    "Hiragana": "えんかい",
+    "Kanji": "宴会",
+    "Type": "Noun, Verb III",
+    "Definition": "a banquet, a feast, a dinner (party)"
+  },
+  {
+    "SN": 451,
+    "Lvl": 2,
+    "Hiragana": "えんき",
+    "Kanji": "延期",
+    "Type": "Noun III",
+    "Definition": "postponement, adjournment, /延期する postpone, put off, adjourn"
+  },
+  {
+    "SN": 452,
+    "Lvl": 2,
+    "Hiragana": "えんぎ",
+    "Kanji": "演技",
+    "Type": "Noun III",
+    "Definition": "acting, performance"
+  },
+  {
+    "SN": 453,
+    "Lvl": 2,
+    "Hiragana": "えんげい",
+    "Kanji": "園芸",
+    "Type": "Noun",
+    "Definition": "gardening, /園芸学 horticulture"
+  },
+  {
+    "SN": 454,
+    "Lvl": 2,
+    "Hiragana": "えんげき",
+    "Kanji": "演劇",
+    "Type": "Noun",
+    "Definition": "drama, play"
+  },
+  {
+    "SN": 455,
+    "Lvl": 2,
+    "Hiragana": "えんしゅう",
+    "Kanji": "演習",
+    "Type": "Noun III",
+    "Definition": "practice, exercises, maneuvers, manoeuvres, /演習を行う hold maneuvers"
+  },
+  {
+    "SN": 456,
+    "Lvl": 2,
+    "Hiragana": "えんしゅう",
+    "Kanji": "円周",
+    "Type": "Noun",
+    "Definition": "circumference, the circumference of a circle, /円周率 pi"
+  },
+  {
+    "SN": 457,
+    "Lvl": 2,
+    "Hiragana": "えんじょ",
+    "Kanji": "援助",
+    "Type": "Noun III",
+    "Definition": "assistance, support"
+  },
+  {
+    "SN": 458,
+    "Lvl": 2,
+    "Hiragana": "エンジン",
+    "Kanji": "",
+    "Type": "Noun",
+    "Definition": "engine"
+  },
+  {
+    "SN": 459,
+    "Lvl": 2,
+    "Hiragana": "えんぜつ",
+    "Kanji": "演説",
+    "Type": "Noun III",
+    "Definition": "a speech, an address, an oration, /演説する make a speech"
+  },
+  {
+    "SN": 460,
+    "Lvl": 2,
+    "Hiragana": "えんそう",
+    "Kanji": "演奏",
+    "Type": "Noun III",
+    "Definition": "a (musical) performance, a rendering, a rendition, /演奏する play;render"
+  },
+  {
+    "SN": 461,
+    "Lvl": 2,
+    "Hiragana": "えんそく",
+    "Kanji": "遠足",
+    "Type": "Noun",
+    "Definition": "an excursion, an outing, a picnic, a hike, a school excursion"
+  },
+  {
+    "SN": 462,
+    "Lvl": 2,
+    "Hiragana": "えんちょう",
+    "Kanji": "延長",
+    "Type": "Noun III",
+    "Definition": "extension, /延長する extend, lengthen"
+  },
+  {
+    "SN": 463,
+    "Lvl": 2,
+    "Hiragana": "えんとつ",
+    "Kanji": "煙突",
+    "Type": "Noun",
+    "Definition": "a chimney, a (chimney) stack, a funnel, a stovepipe"
+  },
+  {
+    "SN": 464,
+    "Lvl": 4,
+    "Hiragana": "えんぴつ",
+    "Kanji": "鉛筆",
+    "Type": "Noun",
+    "Definition": "pencil"
+  },
+  {
+    "SN": 465,
+    "Lvl": 3,
+    "Hiragana": "えんりょする",
+    "Kanji": "遠慮する",
+    "Type": "Noun III",
+    "Definition": "modesty, refrain, hesitate"
+  },
+  {
+    "SN": 466,
+    "Lvl": 4,
+    "Hiragana": "お～/おん～",
+    "Kanji": "御～",
+    "Type": "Prefix",
+    "Definition": "おなまえ/お金 (polite)"
+  },
+  {
+    "SN": 467,
+    "Lvl": 2,
+    "Hiragana": "おい",
+    "Kanji": "甥",
+    "Type": "Noun",
+    "Definition": "a nephew"
+  },
+  {
+    "SN": 468,
+    "Lvl": 2,
+    "Hiragana": "おい",
+    "Kanji": "",
+    "Type": "exclamation?",
+    "Definition": "hey, hey there, hello, say, come listen"
+  },
+  {
+    "SN": 469,
+    "Lvl": 2,
+    "Hiragana": "おいかける",
+    "Kanji": "追い掛ける",
+    "Type": "Verb II",
+    "Definition": "run after, chase, pursue, follow"
+  },
+  {
+    "SN": 470,
+    "Lvl": 2,
+    "Hiragana": "おいこす",
+    "Kanji": "追い越す",
+    "Type": "Verb I",
+    "Definition": "pass, get ahead of, outstrip, get ahead of, surpass"
+  },
+  {
+    "SN": 471,
+    "Lvl": 4,
+    "Hiragana": "おいしい",
+    "Kanji": "",
+    "Type": "I-Adjectives",
+    "Definition": "delicious, tasty"
+  },
+  {
+    "SN": 472,
+    "Lvl": 2,
+    "Hiragana": "おいつく",
+    "Kanji": "追い付く",
+    "Type": "Verb I",
+    "Definition": "catch up, overtake, attain, reach"
+  },
+  {
+    "SN": 473,
+    "Lvl": 2,
+    "Hiragana": "おいて",
+    "Kanji": "於いて",
+    "Type": "他",
+    "Definition": "at, in, as to, /学校において at school, /この場合において in this case"
+  },
+  {
+    "SN": 474,
+    "Lvl": 3,
+    "Hiragana": "おいでになる",
+    "Kanji": "",
+    "Type": "Verb I",
+    "Definition": "come (honorific form)"
+  },
+  {
+    "SN": 475,
+    "Lvl": 2,
+    "Hiragana": "オイル",
+    "Kanji": "",
+    "Type": "Noun",
+    "Definition": "oil, gasoline, gas, petrol, motor oil, suntan lotion"
+  },
+  {
+    "SN": 476,
+    "Lvl": 3,
+    "Hiragana": "おいわい",
+    "Kanji": "お祝い",
+    "Type": "Noun",
+    "Definition": "celebration, congratulations, gift"
+  },
+  {
+    "SN": 477,
+    "Lvl": 2,
+    "Hiragana": "おう",
+    "Kanji": "王",
+    "Type": "Noun",
+    "Definition": "king, monarch, ruler, /石油王 an oil king/magnate, /百獣の王 the king of beasts"
+  },
+  {
+    "SN": 478,
+    "Lvl": 2,
+    "Hiragana": "おう",
+    "Kanji": "追う",
+    "Type": "Verb I",
+    "Definition": "run after, chase, pursue"
+  },
+  {
+    "SN": 479,
+    "Lvl": 2,
+    "Hiragana": "おうえん",
+    "Kanji": "応援",
+    "Type": "Noun III",
+    "Definition": "aid, help, support, assist, back up"
+  },
+  {
+    "SN": 480,
+    "Lvl": 2,
+    "Hiragana": "おうさま",
+    "Kanji": "王様",
+    "Type": "Noun",
+    "Definition": "king; a monarch, a ruler"
+  },
+  {
+    "SN": 481,
+    "Lvl": 2,
+    "Hiragana": "おうじ",
+    "Kanji": "王子",
+    "Type": "Noun",
+    "Definition": "a prince"
+  },
+  {
+    "SN": 482,
+    "Lvl": 2,
+    "Hiragana": "おうじょ",
+    "Kanji": "王女",
+    "Type": "Noun",
+    "Definition": "a princess"
+  },
+  {
+    "SN": 483,
+    "Lvl": 2,
+    "Hiragana": "おうじる/ずる",
+    "Kanji": "応じる/ずる",
+    "Type": "Verb II",
+    "Definition": "respond to/ ～に応じで according to"
+  },
+  {
+    "SN": 484,
+    "Lvl": 2,
+    "Hiragana": "おうせつ",
+    "Kanji": "応接",
+    "Type": "Noun III",
+    "Definition": "reception, /応接室 reception room, /応接間 drawing room, /応接する receive"
+  },
+  {
+    "SN": 485,
+    "Lvl": 2,
+    "Hiragana": "おうたい",
+    "Kanji": "応対",
+    "Type": "Noun III",
+    "Definition": "reception, /応対する receive, deal, serve, wait on"
+  },
+  {
+    "SN": 486,
+    "Lvl": 2,
+    "Hiragana": "おうだん",
+    "Kanji": "横断",
+    "Type": "Noun III",
+    "Definition": "crossing, /横断する cross, traverse, /横断歩道 a pedestrian crossing, a cross walk, a zebra crossing"
+  },
+  {
+    "SN": 487,
+    "Lvl": 2,
+    "Hiragana": "おうだんほどう",
+    "Kanji": "横断歩道",
+    "Type": "Noun",
+    "Definition": "a pedestrian crossing, a crosswalk, a zebra crossing"
+  },
+  {
+    "SN": 488,
+    "Lvl": 2,
+    "Hiragana": "おうふく",
+    "Kanji": "往復",
+    "Type": "Noun III",
+    "Definition": "往復する make a round trip, /往復切符 a round-trip ticket, return ticket"
+  },
+  {
+    "SN": 489,
+    "Lvl": 2,
+    "Hiragana": "おうべい",
+    "Kanji": "欧米",
+    "Type": "Noun",
+    "Definition": "Europe and America, the West, the Occident, 欧米諸国 Western countries"
+  },
+  {
+    "SN": 490,
+    "Lvl": 2,
+    "Hiragana": "おうよう",
+    "Kanji": "応用",
+    "Type": "Noun III",
+    "Definition": "(practical) application, /応用する apply, put to practical use"
+  },
+  {
+    "SN": 491,
+    "Lvl": 2,
+    "Hiragana": "おえる",
+    "Kanji": "終える",
+    "Type": "Verb II",
+    "Definition": "finish, complete, close, conclude, end, get through"
+  },
+  {
+    "SN": 492,
+    "Lvl": 2,
+    "Hiragana": "おお",
+    "Kanji": "",
+    "Type": "exclamation?",
+    "Definition": "oh, ooh, ah, ugh"
+  },
+  {
+    "SN": 493,
+    "Lvl": 2,
+    "Hiragana": "おお～",
+    "Kanji": "大～",
+    "Type": "Prefix",
+    "Definition": "big, large, loud, great, roughly, /大雪 a heavy snow, /大声 a loud voice"
+  },
+  {
+    "SN": 494,
+    "Lvl": 4,
+    "Hiragana": "おおい",
+    "Kanji": "多い",
+    "Type": "I-Adjectives",
+    "Definition": "many, much, a lot(s) of"
+  },
+  {
+    "SN": 495,
+    "Lvl": 2,
+    "Hiragana": "おおいに",
+    "Kanji": "大いに",
+    "Type": "Adverb",
+    "Definition": "very (much), greatly"
+  },
+  {
+    "SN": 496,
+    "Lvl": 2,
+    "Hiragana": "おおう",
+    "Kanji": "覆う",
+    "Type": "Verb I",
+    "Definition": "cover, hide, conceal, permeate"
+  },
+  {
+    "SN": 497,
+    "Lvl": 4,
+    "Hiragana": "おおきい",
+    "Kanji": "大きい",
+    "Type": "I-Adjectives",
+    "Definition": "big"
+  },
+  {
+    "SN": 498,
+    "Lvl": 4,
+    "Hiragana": "おおきな",
+    "Kanji": "大きな",
+    "Type": "Na-Adjectives",
+    "Definition": "big"
+  },
+  {
+    "SN": 499,
+    "Lvl": 2,
+    "Hiragana": "オーケストラ",
+    "Kanji": "",
+    "Type": "Noun",
+    "Definition": "an orchestra, orchestral music"
+  },
+  {
+    "SN": 500,
+    "Lvl": 2,
+    "Hiragana": "おおざっぱ",
+    "Kanji": "",
+    "Type": "Na-Adjectives",
+    "Definition": "おざっぱな(に) rough(ly), broad(ly), careless, thoughtless"
   }
 ]
