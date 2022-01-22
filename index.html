@@ -83,7 +83,7 @@
                   id="practiceMode"
                   aria-label="Select Practice Mode"
                 >
-                  <option selected>Select Practice Mode</option>
+                  <option selected disabled>Select Practice Mode</option>
                   <option value="kanji">Kanji</option>
                   <option value="hiragana">Hiragana</option>
                   <option value="eng">Definitions</option>
@@ -156,7 +156,7 @@
           <div class="col">
             <!-- Results -->
             <script type="text/template" id="resultsTemplate-hiragana">
-              <div class="card flashcard">
+              <div class="card flashcard" data-hiragana='{{ Hiragana }}'>
                 <div class="card-body">
                   <p class="text-end index">{{ SN }}</p>
                   <h2 class="card-title text-center">{{ Hiragana }} </h2>
@@ -167,7 +167,7 @@
               </div>
             </script>
             <script type="text/template" id="resultsTemplate-kanji">
-              <div class="card flashcard">
+              <div class="card flashcard" data-hiragana='{{ Hiragana }}'>
                 <div class="card-body">
                   <p class="text-end index">{{ SN }}</p>
                   <h2 class="card-title text-center">{{ Kanji }} </h2>
@@ -178,7 +178,7 @@
               </div>
             </script>
             <script type="text/template" id="resultsTemplate-eng">
-              <div class="card flashcard">
+              <div class="card flashcard" data-hiragana='{{ Hiragana }}'>
                 <div class="card-body">
                   <p class="text-end index">{{ SN }}</p>
                   <h2 class="card-title text-center">{{ Definition }} </h2>

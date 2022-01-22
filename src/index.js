@@ -96,8 +96,20 @@ const n2Prep = (function () {
     // reveal the hidden contents on click of the card
     $(".flashcard").click((e) => {
       const $hiddenDivs = $(e.currentTarget).find(".flashcard__target");
-      if ($hiddenDivs.hasClass("hidden")) $hiddenDivs.removeClass("hidden");
-      else $hiddenDivs.addClass("hidden");
+      const targetCardIndex = $(e.currentTarget).find(".index").text();
+      const targetCardHiragana = $(e.currentTarget).data("hiragana");
+      if ($hiddenDivs.hasClass("hidden")) {
+        $(e.currentTarget).addClass("flashcard--open");
+        $hiddenDivs.removeClass("hidden");
+        // analytics track flashcard click event "flashcard-click-<index>_<hiragana>"
+        dataLayer.push({
+          event:
+            "flashcard-click-" + targetCardIndex + "_" + targetCardHiragana,
+        });
+      } else {
+        $(e.currentTarget).removeClass("flashcard--open");
+        $hiddenDivs.addClass("hidden");
+      }
     });
   };
 
